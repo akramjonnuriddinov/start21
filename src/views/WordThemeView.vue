@@ -34,9 +34,11 @@ const list = computed(() => (t ? t.words.filter((w) => filter.value === 'all' ||
     <!-- Banner -->
     <section class="mt-3 flex items-center gap-4 rounded-2xl p-5 text-white" :class="t.bg">
       <span class="grid size-16 shrink-0 place-items-center rounded-2xl bg-white/20">
-        <component :is="t.icon" :size="34" :stroke-width="2.5" />
+        <span v-if="t.lesson" class="text-3xl font-black tabular-nums">{{ String(t.lesson).padStart(2, '0') }}</span>
+        <component :is="t.icon" v-else :size="34" :stroke-width="2.5" />
       </span>
       <div class="min-w-0">
+        <p v-if="t.lesson" class="text-sm tracking-wide text-white/85 uppercase">Level 4 · Lesson {{ t.lesson }}</p>
         <h1 class="text-2xl leading-tight font-black">{{ t.title }}</h1>
         <p class="mt-1 font-extrabold text-white/85">{{ themeKnown(t) }} of {{ t.words.length }} learned</p>
       </div>

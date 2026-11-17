@@ -1,5 +1,6 @@
 import { Bitcoin, Dog, Earth, HeartHandshake, Mountain, Shirt, Sun, UtensilsCrossed } from '@lucide/vue'
 import raw from './words.json'
+import level4 from './definitions.json'
 
 export interface Word {
   id: string
@@ -21,10 +22,15 @@ export interface ThemeStyle {
   btn: string
 }
 
+export type ThemeGroup = 'bank' | 'level4'
+
 export interface Theme extends ThemeStyle {
   id: string
   title: string
   short: string
+  group: ThemeGroup
+  /** Level 4 book lesson number (shown instead of the icon) */
+  lesson?: number
   words: Word[]
 }
 
@@ -113,15 +119,34 @@ const STYLE: Record<string, ThemeStyle & { short: string }> = {
 
 const FALLBACK = STYLE['dogs-our-loyal-friends']!
 
-export const THEMES: Theme[] = raw.themes.map((t) => {
+const BANK: Theme[] = raw.themes.map((t) => {
   const style = STYLE[t.id] ?? { ...FALLBACK, short: t.title }
   return {
     ...style,
     id: t.id,
     title: t.title,
+    group: 'bank',
     words: t.words.map((w) => ({ ...w, theme: t.id })),
   }
 })
+
+// Level 4 lessons cycle through the topic colours
+const CYCLE = Object.values(STYLE)
+const LEVEL4: Theme[] = level4.themes.map((t, i) => ({
+  ...CYCLE[i % CYCLE.length]!,
+  short: `Level 4 · Lesson ${t.lesson}`,
+  id: t.id,
+  title: t.title,
+  group: 'level4',
+  lesson: t.lesson,
+  words: t.words.map((w) => ({ ...w, theme: t.id })),
+}))
+
+export const THEMES: Theme[] = [...BANK, ...LEVEL4]
+export const GROUPS: { id: ThemeGroup; title: string; subtitle: string; themes: Theme[] }[] = [
+  { id: 'bank', title: 'Topics', subtitle: 'Vocabulary from the reading topics', themes: BANK },
+  { id: 'level4', title: 'Level 4 · Daily definitions', subtitle: '12 words to define for each book lesson', themes: LEVEL4 },
+]
 
 export const ALL_WORDS: Word[] = THEMES.flatMap((t) => t.words)
 

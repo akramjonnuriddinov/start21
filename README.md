@@ -4,7 +4,8 @@ A listening-practice app for a study group: 20 recordings, an answer sheet per
 lesson, a word bank (235 words in 6 topics, English → Uzbek, with flashcards and
 quizzes), XP, streaks and a group league.
 
-The word bank comes from `src/data/words.json`. Replace that file to change the words.
+The word bank comes from `src/data/words.json` (topics) and `src/data/definitions.json`
+(Level 4 book: 12 daily words per lesson). Edit those files to change the words.
 
 - **Frontend:** Vue 3 + Tailwind v4 (`src/`)
 - **Backend:** Go + PostgreSQL (`cmd/server/`)

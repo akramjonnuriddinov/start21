@@ -46,7 +46,7 @@ async function doLogout() {
           <RouterLink
             to="/words"
             class="flex items-center gap-1.5 rounded-xl border-2 border-transparent px-3 py-1.5 text-sm font-extrabold text-mute-2 uppercase hover:bg-card-2"
-            active-class="border-plum! bg-plum-tint text-plum-dark!"
+            :class="{ 'border-plum! bg-plum-tint text-plum-dark!': route.path.startsWith('/words') }"
           >
             <BookA :size="18" :stroke-width="2.5" /> <span class="hidden sm:inline">Words</span>
           </RouterLink>

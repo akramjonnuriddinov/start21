@@ -1,0 +1,2125 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataset": "LEVEL 4 BOOK — daily words to define",
+  "source": "2. LEVEL 4 BOOK definitions 02.07.2025.pdf",
+  "targetLanguage": "uz",
+  "themes": [
+    {
+      "id": "level4-lesson-01",
+      "title": "Beautiful Natural Places — Guess Where?",
+      "lesson": 1,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-01-001",
+          "term": "Mountainous",
+          "partOfSpeech": "adjective",
+          "translationUz": "tog‘li",
+          "definitionEn": "Having many mountains."
+        },
+        {
+          "id": "level4-lesson-01-002",
+          "term": "Ascent",
+          "partOfSpeech": "noun",
+          "translationUz": "ko‘tarilish; cho‘qqiga chiqish",
+          "definitionEn": "The act of climbing up to the top of something."
+        },
+        {
+          "id": "level4-lesson-01-003",
+          "term": "Surround",
+          "partOfSpeech": "verb",
+          "translationUz": "o‘rab olmoq",
+          "definitionEn": "To be all around something."
+        },
+        {
+          "id": "level4-lesson-01-004",
+          "term": "Phenomenon",
+          "partOfSpeech": "noun",
+          "translationUz": "hodisa",
+          "definitionEn": "Something that happens or exists and can be seen, often unusual."
+        },
+        {
+          "id": "level4-lesson-01-005",
+          "term": "Spread",
+          "partOfSpeech": "verb",
+          "translationUz": "yoyilmoq; tarqalmoq",
+          "definitionEn": "To cover or reach a large area."
+        },
+        {
+          "id": "level4-lesson-01-006",
+          "term": "Indigenous",
+          "partOfSpeech": "adjective",
+          "translationUz": "tub (mahalliy)",
+          "definitionEn": "Living in a place from the earliest times."
+        },
+        {
+          "id": "level4-lesson-01-007",
+          "term": "Prove",
+          "partOfSpeech": "verb",
+          "translationUz": "isbotlamoq",
+          "definitionEn": "To show that something is true."
+        },
+        {
+          "id": "level4-lesson-01-008",
+          "term": "Flat",
+          "partOfSpeech": "adjective",
+          "translationUz": "tekis",
+          "definitionEn": "Level, without hills or high parts."
+        },
+        {
+          "id": "level4-lesson-01-009",
+          "term": "Resident",
+          "partOfSpeech": "noun",
+          "translationUz": "aholi; yashovchi",
+          "definitionEn": "A person who lives in a particular place."
+        },
+        {
+          "id": "level4-lesson-01-010",
+          "term": "Stunning",
+          "partOfSpeech": "adjective",
+          "translationUz": "hayratlanarli darajada go‘zal",
+          "definitionEn": "Extremely beautiful or impressive."
+        },
+        {
+          "id": "level4-lesson-01-011",
+          "term": "Name after",
+          "partOfSpeech": "verb",
+          "translationUz": "…ning nomini bermoq",
+          "definitionEn": "To give someone or something the same name as another person or thing."
+        },
+        {
+          "id": "level4-lesson-01-012",
+          "term": "Ruins",
+          "partOfSpeech": "noun",
+          "translationUz": "xarobalar",
+          "definitionEn": "The remaining parts of old, destroyed buildings."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-02",
+      "title": "The Japanese Kimono",
+      "lesson": 2,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-02-001",
+          "term": "Fashion",
+          "partOfSpeech": "noun",
+          "translationUz": "moda",
+          "definitionEn": "A popular style of clothes at a particular time."
+        },
+        {
+          "id": "level4-lesson-02-002",
+          "term": "Refer to",
+          "partOfSpeech": "verb",
+          "translationUz": "…ni anglatmoq; tilga olmoq",
+          "definitionEn": "To mean or talk about something."
+        },
+        {
+          "id": "level4-lesson-02-003",
+          "term": "Sleeve",
+          "partOfSpeech": "noun",
+          "translationUz": "yeng",
+          "definitionEn": "The part of a piece of clothing that covers the arm."
+        },
+        {
+          "id": "level4-lesson-02-004",
+          "term": "Wrap",
+          "partOfSpeech": "verb",
+          "translationUz": "o‘ramoq",
+          "definitionEn": "To cover something by putting material around it."
+        },
+        {
+          "id": "level4-lesson-02-005",
+          "term": "Freedom",
+          "partOfSpeech": "noun",
+          "translationUz": "erkinlik",
+          "definitionEn": "The right or ability to do what you want."
+        },
+        {
+          "id": "level4-lesson-02-006",
+          "term": "Suitable",
+          "partOfSpeech": "adjective",
+          "translationUz": "mos; munosib",
+          "definitionEn": "Right or acceptable for a particular purpose."
+        },
+        {
+          "id": "level4-lesson-02-007",
+          "term": "Linen",
+          "partOfSpeech": "noun",
+          "translationUz": "zig‘ir mato",
+          "definitionEn": "Strong cloth made from the flax plant."
+        },
+        {
+          "id": "level4-lesson-02-008",
+          "term": "Sew",
+          "partOfSpeech": "verb",
+          "translationUz": "tikmoq",
+          "definitionEn": "To join cloth with a needle and thread."
+        },
+        {
+          "id": "level4-lesson-02-009",
+          "term": "Instantly",
+          "partOfSpeech": "adverb",
+          "translationUz": "darhol; bir zumda",
+          "definitionEn": "Immediately; at once."
+        },
+        {
+          "id": "level4-lesson-02-010",
+          "term": "Class",
+          "partOfSpeech": "noun",
+          "translationUz": "tabaqa; sinf",
+          "definitionEn": "A group of people with the same social and economic position."
+        },
+        {
+          "id": "level4-lesson-02-011",
+          "term": "Funeral",
+          "partOfSpeech": "noun",
+          "translationUz": "dafn marosimi",
+          "definitionEn": "A ceremony held after a person dies."
+        },
+        {
+          "id": "level4-lesson-02-012",
+          "term": "Fold",
+          "partOfSpeech": "verb",
+          "translationUz": "buklamoq",
+          "definitionEn": "To bend cloth or paper so one part lies on another."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-03",
+      "title": "Interesting Dining Manners in Different Cultures",
+      "lesson": 3,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-03-001",
+          "term": "Gather",
+          "partOfSpeech": "verb",
+          "translationUz": "yig‘ilmoq",
+          "definitionEn": "To come together in one place."
+        },
+        {
+          "id": "level4-lesson-03-002",
+          "term": "Ritual",
+          "partOfSpeech": "noun",
+          "translationUz": "marosim; odat",
+          "definitionEn": "A set of actions always done in the same way."
+        },
+        {
+          "id": "level4-lesson-03-003",
+          "term": "Greasy",
+          "partOfSpeech": "adjective",
+          "translationUz": "yog‘li",
+          "definitionEn": "Covered with or containing a lot of oil or fat."
+        },
+        {
+          "id": "level4-lesson-03-004",
+          "term": "Utensil",
+          "partOfSpeech": "noun",
+          "translationUz": "oshxona anjomi",
+          "definitionEn": "A tool used for eating or cooking."
+        },
+        {
+          "id": "level4-lesson-03-005",
+          "term": "Originate from",
+          "partOfSpeech": "verb",
+          "translationUz": "…dan kelib chiqmoq",
+          "definitionEn": "To start or come from a particular place."
+        },
+        {
+          "id": "level4-lesson-03-006",
+          "term": "Cuisine",
+          "partOfSpeech": "noun",
+          "translationUz": "oshxona (milliy taomlar)",
+          "definitionEn": "A style of cooking of a country or region."
+        },
+        {
+          "id": "level4-lesson-03-007",
+          "term": "Insult",
+          "partOfSpeech": "noun",
+          "translationUz": "haqorat",
+          "definitionEn": "Something said or done that is rude and offensive."
+        },
+        {
+          "id": "level4-lesson-03-008",
+          "term": "Appall",
+          "partOfSpeech": "verb",
+          "translationUz": "dahshatga solmoq",
+          "definitionEn": "To shock someone very much."
+        },
+        {
+          "id": "level4-lesson-03-009",
+          "term": "Cutlery",
+          "partOfSpeech": "noun",
+          "translationUz": "qoshiq-sanchqi-pichoq",
+          "definitionEn": "Knives, forks and spoons used for eating."
+        },
+        {
+          "id": "level4-lesson-03-010",
+          "term": "Napkin",
+          "partOfSpeech": "noun",
+          "translationUz": "salfetka",
+          "definitionEn": "A piece of cloth or paper to wipe your mouth at meals."
+        },
+        {
+          "id": "level4-lesson-03-011",
+          "term": "Adopt",
+          "partOfSpeech": "verb",
+          "translationUz": "qabul qilmoq; o‘zlashtirmoq",
+          "definitionEn": "To start using a new idea or custom."
+        },
+        {
+          "id": "level4-lesson-03-012",
+          "term": "Communal",
+          "partOfSpeech": "adjective",
+          "translationUz": "umumiy",
+          "definitionEn": "Shared by everyone in a group."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-04",
+      "title": "Dogs — Our Loyal Friends",
+      "lesson": 4,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-04-001",
+          "term": "Fur",
+          "partOfSpeech": "noun",
+          "translationUz": "jun; mo‘yna",
+          "definitionEn": "The thick hair on an animal's body."
+        },
+        {
+          "id": "level4-lesson-04-002",
+          "term": "Chase",
+          "partOfSpeech": "verb",
+          "translationUz": "quvmoq",
+          "definitionEn": "To run after someone to catch them."
+        },
+        {
+          "id": "level4-lesson-04-003",
+          "term": "Fluffy",
+          "partOfSpeech": "adjective",
+          "translationUz": "yumshoq-paxmoq",
+          "definitionEn": "Soft and light, like fur or wool."
+        },
+        {
+          "id": "level4-lesson-04-004",
+          "term": "Flexible",
+          "partOfSpeech": "adjective",
+          "translationUz": "egiluvchan; moslashuvchan",
+          "definitionEn": "Able to bend or change easily."
+        },
+        {
+          "id": "level4-lesson-04-005",
+          "term": "Sled",
+          "partOfSpeech": "noun",
+          "translationUz": "chana",
+          "definitionEn": "A vehicle that slides over snow."
+        },
+        {
+          "id": "level4-lesson-04-006",
+          "term": "Fool",
+          "partOfSpeech": "verb",
+          "translationUz": "aldamoq",
+          "definitionEn": "To trick someone into believing something false."
+        },
+        {
+          "id": "level4-lesson-04-007",
+          "term": "Date to",
+          "partOfSpeech": "verb",
+          "translationUz": "…ga borib taqalmoq",
+          "definitionEn": "To have existed since a particular time."
+        },
+        {
+          "id": "level4-lesson-04-008",
+          "term": "Obedience",
+          "partOfSpeech": "noun",
+          "translationUz": "itoatkorlik",
+          "definitionEn": "Doing what you are told to do."
+        },
+        {
+          "id": "level4-lesson-04-009",
+          "term": "Courage",
+          "partOfSpeech": "noun",
+          "translationUz": "jasorat",
+          "definitionEn": "The ability to face danger without fear."
+        },
+        {
+          "id": "level4-lesson-04-010",
+          "term": "Recent",
+          "partOfSpeech": "adjective",
+          "translationUz": "yaqindagi; so‘nggi",
+          "definitionEn": "Happening a short time ago."
+        },
+        {
+          "id": "level4-lesson-04-011",
+          "term": "Ease",
+          "partOfSpeech": "verb",
+          "translationUz": "yengillashtirmoq",
+          "definitionEn": "To make pain or a problem less severe."
+        },
+        {
+          "id": "level4-lesson-04-012",
+          "term": "Besides",
+          "partOfSpeech": "adverb",
+          "translationUz": "bundan tashqari",
+          "definitionEn": "In addition; also."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-05",
+      "title": "The World's Most Beautiful Natural Wonders",
+      "lesson": 5,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-05-001",
+          "term": "Beauty",
+          "partOfSpeech": "noun",
+          "translationUz": "go‘zallik",
+          "definitionEn": "The quality of being very pleasing to look at."
+        },
+        {
+          "id": "level4-lesson-05-002",
+          "term": "Incredible",
+          "partOfSpeech": "adjective",
+          "translationUz": "aql bovar qilmaydigan",
+          "definitionEn": "Very surprising or hard to believe."
+        },
+        {
+          "id": "level4-lesson-05-003",
+          "term": "Absolutely",
+          "partOfSpeech": "adverb",
+          "translationUz": "mutlaqo; butunlay",
+          "definitionEn": "Completely; totally."
+        },
+        {
+          "id": "level4-lesson-05-004",
+          "term": "Precious",
+          "partOfSpeech": "adjective",
+          "translationUz": "qimmatbaho; aziz",
+          "definitionEn": "Very valuable or important."
+        },
+        {
+          "id": "level4-lesson-05-005",
+          "term": "Abundant",
+          "partOfSpeech": "adjective",
+          "translationUz": "mo‘l; serob",
+          "definitionEn": "Existing in large amounts."
+        },
+        {
+          "id": "level4-lesson-05-006",
+          "term": "Reef",
+          "partOfSpeech": "noun",
+          "translationUz": "rif (marjon qoyasi)",
+          "definitionEn": "A line of rock or coral near the surface of the sea."
+        },
+        {
+          "id": "level4-lesson-05-007",
+          "term": "Biodiversity",
+          "partOfSpeech": "noun",
+          "translationUz": "biologik xilma-xillik",
+          "definitionEn": "The variety of plants and animals in an area."
+        },
+        {
+          "id": "level4-lesson-05-008",
+          "term": "Treat",
+          "partOfSpeech": "verb",
+          "translationUz": "muomala qilmoq",
+          "definitionEn": "To behave towards someone or something in a particular way."
+        },
+        {
+          "id": "level4-lesson-05-009",
+          "term": "Constant",
+          "partOfSpeech": "adjective",
+          "translationUz": "doimiy",
+          "definitionEn": "Happening all the time; not changing."
+        },
+        {
+          "id": "level4-lesson-05-010",
+          "term": "Summit",
+          "partOfSpeech": "noun",
+          "translationUz": "cho‘qqi",
+          "definitionEn": "The highest point of a mountain."
+        },
+        {
+          "id": "level4-lesson-05-011",
+          "term": "Holy",
+          "partOfSpeech": "adjective",
+          "translationUz": "muqaddas",
+          "definitionEn": "Connected with God or religion; sacred."
+        },
+        {
+          "id": "level4-lesson-05-012",
+          "term": "Fall",
+          "partOfSpeech": "noun",
+          "translationUz": "sharshara",
+          "definitionEn": "A waterfall (often used in the plural: falls)."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-06",
+      "title": "Interesting Traditional Marriage Customs around the World",
+      "lesson": 6,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-06-001",
+          "term": "Marriage",
+          "partOfSpeech": "noun",
+          "translationUz": "nikoh; turmush",
+          "definitionEn": "The legal relationship between a husband and wife."
+        },
+        {
+          "id": "level4-lesson-06-002",
+          "term": "Indisputable",
+          "partOfSpeech": "adjective",
+          "translationUz": "shubhasiz; bahsli bo‘lmagan",
+          "definitionEn": "Certainly true; impossible to argue against."
+        },
+        {
+          "id": "level4-lesson-06-003",
+          "term": "Obligation",
+          "partOfSpeech": "noun",
+          "translationUz": "majburiyat",
+          "definitionEn": "Something you must do because of a rule or duty."
+        },
+        {
+          "id": "level4-lesson-06-004",
+          "term": "Kidnap",
+          "partOfSpeech": "verb",
+          "translationUz": "o‘g‘irlab ketmoq",
+          "definitionEn": "To take someone away illegally by force."
+        },
+        {
+          "id": "level4-lesson-06-005",
+          "term": "Carve",
+          "partOfSpeech": "verb",
+          "translationUz": "o‘ymoq; o‘yib yasamoq",
+          "definitionEn": "To cut wood or stone to make a shape."
+        },
+        {
+          "id": "level4-lesson-06-006",
+          "term": "Matrimony",
+          "partOfSpeech": "noun",
+          "translationUz": "nikoh",
+          "definitionEn": "The state of being married."
+        },
+        {
+          "id": "level4-lesson-06-007",
+          "term": "Spouse",
+          "partOfSpeech": "noun",
+          "translationUz": "turmush o‘rtog‘i",
+          "definitionEn": "A husband or wife."
+        },
+        {
+          "id": "level4-lesson-06-008",
+          "term": "Sip",
+          "partOfSpeech": "noun",
+          "translationUz": "ho‘plam",
+          "definitionEn": "A very small amount of a drink."
+        },
+        {
+          "id": "level4-lesson-06-009",
+          "term": "Rescue",
+          "partOfSpeech": "verb",
+          "translationUz": "qutqarmoq",
+          "definitionEn": "To save someone from danger."
+        },
+        {
+          "id": "level4-lesson-06-010",
+          "term": "Establish",
+          "partOfSpeech": "verb",
+          "translationUz": "o‘rnatmoq; asos solmoq",
+          "definitionEn": "To start something that will last for a long time."
+        },
+        {
+          "id": "level4-lesson-06-011",
+          "term": "Bribe",
+          "partOfSpeech": "verb",
+          "translationUz": "pora bermoq",
+          "definitionEn": "To give someone money to make them do something dishonest."
+        },
+        {
+          "id": "level4-lesson-06-012",
+          "term": "Bouquet",
+          "partOfSpeech": "noun",
+          "translationUz": "guldasta",
+          "definitionEn": "A bunch of flowers arranged in an attractive way."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-07",
+      "title": "Summer Solstice",
+      "lesson": 7,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-07-001",
+          "term": "Bonfire",
+          "partOfSpeech": "noun",
+          "translationUz": "gulxan",
+          "definitionEn": "A large fire built outdoors."
+        },
+        {
+          "id": "level4-lesson-07-002",
+          "term": "Light",
+          "partOfSpeech": "verb",
+          "translationUz": "yoqmoq",
+          "definitionEn": "To make something start to burn."
+        },
+        {
+          "id": "level4-lesson-07-003",
+          "term": "Evil",
+          "partOfSpeech": "adjective",
+          "translationUz": "yovuz",
+          "definitionEn": "Morally very bad; wanting to harm."
+        },
+        {
+          "id": "level4-lesson-07-004",
+          "term": "Nocturnal",
+          "partOfSpeech": "adjective",
+          "translationUz": "tungi",
+          "definitionEn": "Active or happening at night."
+        },
+        {
+          "id": "level4-lesson-07-005",
+          "term": "Sacrifice",
+          "partOfSpeech": "noun",
+          "translationUz": "qurbonlik",
+          "definitionEn": "Something offered to a god, or given up for others."
+        },
+        {
+          "id": "level4-lesson-07-006",
+          "term": "Roam",
+          "partOfSpeech": "verb",
+          "translationUz": "kezib yurmoq",
+          "definitionEn": "To walk or travel without a clear purpose."
+        },
+        {
+          "id": "level4-lesson-07-007",
+          "term": "Welcome",
+          "partOfSpeech": "verb",
+          "translationUz": "kutib olmoq; olqishlamoq",
+          "definitionEn": "To greet someone or something with pleasure."
+        },
+        {
+          "id": "level4-lesson-07-008",
+          "term": "Eve",
+          "partOfSpeech": "noun",
+          "translationUz": "arafa",
+          "definitionEn": "The day or evening before a special day."
+        },
+        {
+          "id": "level4-lesson-07-009",
+          "term": "Fertility",
+          "partOfSpeech": "noun",
+          "translationUz": "hosildorlik; serpushtlik",
+          "definitionEn": "The ability to produce children, young or crops."
+        },
+        {
+          "id": "level4-lesson-07-010",
+          "term": "Solstice",
+          "partOfSpeech": "noun",
+          "translationUz": "quyosh turishi",
+          "definitionEn": "The longest or shortest day of the year."
+        },
+        {
+          "id": "level4-lesson-07-011",
+          "term": "Band",
+          "partOfSpeech": "noun",
+          "translationUz": "musiqa guruhi",
+          "definitionEn": "A group of musicians who play together."
+        },
+        {
+          "id": "level4-lesson-07-012",
+          "term": "Initially",
+          "partOfSpeech": "adverb",
+          "translationUz": "dastlab",
+          "definitionEn": "At the beginning."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-08",
+      "title": "Bitcoin — The Currency of the Future",
+      "lesson": 8,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-08-001",
+          "term": "Basically",
+          "partOfSpeech": "adverb",
+          "translationUz": "asosan; mohiyatan",
+          "definitionEn": "In the most important ways; simply."
+        },
+        {
+          "id": "level4-lesson-08-002",
+          "term": "Wallet",
+          "partOfSpeech": "noun",
+          "translationUz": "hamyon",
+          "definitionEn": "A small case for money; also an app that stores digital money."
+        },
+        {
+          "id": "level4-lesson-08-003",
+          "term": "Transaction",
+          "partOfSpeech": "noun",
+          "translationUz": "tranzaksiya; to‘lov amaliyoti",
+          "definitionEn": "An act of buying, selling or sending money."
+        },
+        {
+          "id": "level4-lesson-08-004",
+          "term": "Thanks to",
+          "partOfSpeech": "phrase",
+          "translationUz": "…tufayli",
+          "definitionEn": "Because of."
+        },
+        {
+          "id": "level4-lesson-08-005",
+          "term": "Available",
+          "partOfSpeech": "adjective",
+          "translationUz": "mavjud",
+          "definitionEn": "Able to be used or obtained."
+        },
+        {
+          "id": "level4-lesson-08-006",
+          "term": "Stuff",
+          "partOfSpeech": "noun",
+          "translationUz": "narsalar",
+          "definitionEn": "Things in general."
+        },
+        {
+          "id": "level4-lesson-08-007",
+          "term": "Corruption",
+          "partOfSpeech": "noun",
+          "translationUz": "korrupsiya; poraxo‘rlik",
+          "definitionEn": "Dishonest or illegal use of power for personal gain."
+        },
+        {
+          "id": "level4-lesson-08-008",
+          "term": "Permeate",
+          "partOfSpeech": "verb",
+          "translationUz": "singib ketmoq",
+          "definitionEn": "To spread through every part of something."
+        },
+        {
+          "id": "level4-lesson-08-009",
+          "term": "Middleman",
+          "partOfSpeech": "noun",
+          "translationUz": "vositachi",
+          "definitionEn": "A person or company between a buyer and a seller."
+        },
+        {
+          "id": "level4-lesson-08-010",
+          "term": "Invent",
+          "partOfSpeech": "verb",
+          "translationUz": "ixtiro qilmoq",
+          "definitionEn": "To create something that did not exist before."
+        },
+        {
+          "id": "level4-lesson-08-011",
+          "term": "Peer-to-peer",
+          "partOfSpeech": "adjective",
+          "translationUz": "foydalanuvchilararo (to‘g‘ridan-to‘g‘ri)",
+          "definitionEn": "Directly between users, without a central server or bank."
+        },
+        {
+          "id": "level4-lesson-08-012",
+          "term": "Validation",
+          "partOfSpeech": "noun",
+          "translationUz": "tasdiqlash",
+          "definitionEn": "Checking that something is correct or real."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-09",
+      "title": "Canada — Fun & Interesting Facts about the \"Great White North\"",
+      "lesson": 9,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-09-001",
+          "term": "Entire",
+          "partOfSpeech": "adjective",
+          "translationUz": "butun",
+          "definitionEn": "Whole; complete."
+        },
+        {
+          "id": "level4-lesson-09-002",
+          "term": "Surprise",
+          "partOfSpeech": "verb",
+          "translationUz": "hayron qoldirmoq",
+          "definitionEn": "To make someone feel sudden wonder."
+        },
+        {
+          "id": "level4-lesson-09-003",
+          "term": "Robbery",
+          "partOfSpeech": "noun",
+          "translationUz": "talonchilik",
+          "definitionEn": "The crime of stealing from a person or place."
+        },
+        {
+          "id": "level4-lesson-09-004",
+          "term": "Syrup",
+          "partOfSpeech": "noun",
+          "translationUz": "sharbat; sirop",
+          "definitionEn": "A thick, sweet liquid, e.g. maple syrup."
+        },
+        {
+          "id": "level4-lesson-09-005",
+          "term": "Tie",
+          "partOfSpeech": "verb",
+          "translationUz": "bog‘lamoq",
+          "definitionEn": "To fasten something with string or rope."
+        },
+        {
+          "id": "level4-lesson-09-006",
+          "term": "Indigenous",
+          "partOfSpeech": "adjective",
+          "translationUz": "tub (mahalliy)",
+          "definitionEn": "Living in a place from the earliest times."
+        },
+        {
+          "id": "level4-lesson-09-007",
+          "term": "Waffle",
+          "partOfSpeech": "noun",
+          "translationUz": "vafli",
+          "definitionEn": "A flat cake with a pattern of squares."
+        },
+        {
+          "id": "level4-lesson-09-008",
+          "term": "Runny",
+          "partOfSpeech": "adjective",
+          "translationUz": "suyuq",
+          "definitionEn": "More liquid than usual."
+        },
+        {
+          "id": "level4-lesson-09-009",
+          "term": "Fine",
+          "partOfSpeech": "verb",
+          "translationUz": "jarima solmoq",
+          "definitionEn": "To make someone pay money as a punishment."
+        },
+        {
+          "id": "level4-lesson-09-010",
+          "term": "Postal",
+          "partOfSpeech": "adjective",
+          "translationUz": "pochtaga oid",
+          "definitionEn": "Relating to sending letters and parcels."
+        },
+        {
+          "id": "level4-lesson-09-011",
+          "term": "Citizen",
+          "partOfSpeech": "noun",
+          "translationUz": "fuqaro",
+          "definitionEn": "A person who legally belongs to a country."
+        },
+        {
+          "id": "level4-lesson-09-012",
+          "term": "Commonly",
+          "partOfSpeech": "adverb",
+          "translationUz": "odatda; ko‘pincha",
+          "definitionEn": "Usually; by many people."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-10",
+      "title": "A Guide to South American Cuisine",
+      "lesson": 10,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-10-001",
+          "term": "Diverse",
+          "partOfSpeech": "adjective",
+          "translationUz": "xilma-xil",
+          "definitionEn": "Very different from each other; varied."
+        },
+        {
+          "id": "level4-lesson-10-002",
+          "term": "Taste",
+          "partOfSpeech": "noun",
+          "translationUz": "ta’m",
+          "definitionEn": "The flavour of food or drink."
+        },
+        {
+          "id": "level4-lesson-10-003",
+          "term": "Serve",
+          "partOfSpeech": "verb",
+          "translationUz": "tortmoq (taom); xizmat qilmoq",
+          "definitionEn": "To give food or drink to someone."
+        },
+        {
+          "id": "level4-lesson-10-004",
+          "term": "Staple",
+          "partOfSpeech": "noun",
+          "translationUz": "asosiy oziq-ovqat",
+          "definitionEn": "A basic food that people eat regularly."
+        },
+        {
+          "id": "level4-lesson-10-005",
+          "term": "Season",
+          "partOfSpeech": "verb",
+          "translationUz": "ziravor qo‘shmoq",
+          "definitionEn": "To add salt, pepper or spices to food."
+        },
+        {
+          "id": "level4-lesson-10-006",
+          "term": "Food poisoning",
+          "partOfSpeech": "noun",
+          "translationUz": "oziq-ovqatdan zaharlanish",
+          "definitionEn": "Illness caused by eating bad food."
+        },
+        {
+          "id": "level4-lesson-10-007",
+          "term": "Main course",
+          "partOfSpeech": "noun",
+          "translationUz": "asosiy taom",
+          "definitionEn": "The biggest dish of a meal."
+        },
+        {
+          "id": "level4-lesson-10-008",
+          "term": "Spread",
+          "partOfSpeech": "verb",
+          "translationUz": "surtmoq",
+          "definitionEn": "To put a soft food in a thin layer on bread."
+        },
+        {
+          "id": "level4-lesson-10-009",
+          "term": "Almond",
+          "partOfSpeech": "noun",
+          "translationUz": "bodom",
+          "definitionEn": "An oval nut with a brown skin."
+        },
+        {
+          "id": "level4-lesson-10-010",
+          "term": "Attraction",
+          "partOfSpeech": "noun",
+          "translationUz": "diqqatga sazovor joy",
+          "definitionEn": "A place or thing that people want to visit or see."
+        },
+        {
+          "id": "level4-lesson-10-011",
+          "term": "Lead",
+          "partOfSpeech": "verb",
+          "translationUz": "olib kelmoq (to‘g‘ri kelmoq)",
+          "definitionEn": "To cause a particular result (lead to)."
+        },
+        {
+          "id": "level4-lesson-10-012",
+          "term": "Impact on",
+          "partOfSpeech": "noun",
+          "translationUz": "…ga ta’sir",
+          "definitionEn": "A strong effect on something."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-11",
+      "title": "Why You Shouldn't Be Afraid of Flying",
+      "lesson": 11,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-11-001",
+          "term": "Mode",
+          "partOfSpeech": "noun",
+          "translationUz": "usul; tur",
+          "definitionEn": "A particular way of doing something, e.g. a mode of transport."
+        },
+        {
+          "id": "level4-lesson-11-002",
+          "term": "Intimidating",
+          "partOfSpeech": "adjective",
+          "translationUz": "qo‘rqituvchi",
+          "definitionEn": "Making you feel nervous or afraid."
+        },
+        {
+          "id": "level4-lesson-11-003",
+          "term": "Lack",
+          "partOfSpeech": "verb",
+          "translationUz": "yetishmaslik",
+          "definitionEn": "To not have enough of something."
+        },
+        {
+          "id": "level4-lesson-11-004",
+          "term": "Subway",
+          "partOfSpeech": "noun",
+          "translationUz": "metro",
+          "definitionEn": "An underground railway in a city."
+        },
+        {
+          "id": "level4-lesson-11-005",
+          "term": "Commercial",
+          "partOfSpeech": "adjective",
+          "translationUz": "tijoriy",
+          "definitionEn": "Done to make money; used by the public (e.g. commercial flights)."
+        },
+        {
+          "id": "level4-lesson-11-006",
+          "term": "Decline",
+          "partOfSpeech": "verb",
+          "translationUz": "kamaymoq",
+          "definitionEn": "To become smaller or fewer."
+        },
+        {
+          "id": "level4-lesson-11-007",
+          "term": "Entertainment",
+          "partOfSpeech": "noun",
+          "translationUz": "ko‘ngilochar",
+          "definitionEn": "Films, music, games etc. that people enjoy."
+        },
+        {
+          "id": "level4-lesson-11-008",
+          "term": "Rare",
+          "partOfSpeech": "adjective",
+          "translationUz": "kamdan-kam",
+          "definitionEn": "Not happening or seen very often."
+        },
+        {
+          "id": "level4-lesson-11-009",
+          "term": "Given (that)",
+          "partOfSpeech": "preposition",
+          "translationUz": "…ni hisobga olsak",
+          "definitionEn": "Considering the fact that."
+        },
+        {
+          "id": "level4-lesson-11-010",
+          "term": "Advanced",
+          "partOfSpeech": "adjective",
+          "translationUz": "ilg‘or; zamonaviy",
+          "definitionEn": "Modern and well developed."
+        },
+        {
+          "id": "level4-lesson-11-011",
+          "term": "Civilian",
+          "partOfSpeech": "adjective",
+          "translationUz": "fuqarolik (harbiy emas)",
+          "definitionEn": "Not connected with the army."
+        },
+        {
+          "id": "level4-lesson-11-012",
+          "term": "Feature",
+          "partOfSpeech": "noun",
+          "translationUz": "xususiyat",
+          "definitionEn": "An important or typical part of something."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-13",
+      "title": "A Brief History of the Olympics · The Origins of Thanksgiving",
+      "lesson": 13,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-13-001",
+          "term": "Blessing",
+          "partOfSpeech": "noun",
+          "translationUz": "baraka; ne’mat",
+          "definitionEn": "Something good that you are grateful for."
+        },
+        {
+          "id": "level4-lesson-13-002",
+          "term": "Attend",
+          "partOfSpeech": "verb",
+          "translationUz": "qatnashmoq",
+          "definitionEn": "To go to an event."
+        },
+        {
+          "id": "level4-lesson-13-003",
+          "term": "Eel",
+          "partOfSpeech": "noun",
+          "translationUz": "ilonbaliq",
+          "definitionEn": "A long, thin fish that looks like a snake."
+        },
+        {
+          "id": "level4-lesson-13-004",
+          "term": "Harsh",
+          "partOfSpeech": "adjective",
+          "translationUz": "og‘ir; qattiq",
+          "definitionEn": "Very difficult and unpleasant."
+        },
+        {
+          "id": "level4-lesson-13-005",
+          "term": "Struggle",
+          "partOfSpeech": "verb",
+          "translationUz": "qiynalmoq; kurashmoq",
+          "definitionEn": "To try very hard to do something difficult."
+        },
+        {
+          "id": "level4-lesson-13-006",
+          "term": "Pilgrim",
+          "partOfSpeech": "noun",
+          "translationUz": "ziyoratchi; (AQSHning ilk ko‘chmanchilari)",
+          "definitionEn": "A person who travels to a holy place; here, early English settlers in America."
+        },
+        {
+          "id": "level4-lesson-13-007",
+          "term": "Peace",
+          "partOfSpeech": "noun",
+          "translationUz": "tinchlik",
+          "definitionEn": "A time with no war or fighting."
+        },
+        {
+          "id": "level4-lesson-13-008",
+          "term": "Vital",
+          "partOfSpeech": "adjective",
+          "translationUz": "hayotiy muhim",
+          "definitionEn": "Extremely important; necessary."
+        },
+        {
+          "id": "level4-lesson-13-009",
+          "term": "Host",
+          "partOfSpeech": "verb",
+          "translationUz": "mezbonlik qilmoq",
+          "definitionEn": "To organise an event and invite people to it."
+        },
+        {
+          "id": "level4-lesson-13-010",
+          "term": "Compete",
+          "partOfSpeech": "verb",
+          "translationUz": "musobaqalashmoq",
+          "definitionEn": "To try to win against others."
+        },
+        {
+          "id": "level4-lesson-13-011",
+          "term": "Reputation",
+          "partOfSpeech": "noun",
+          "translationUz": "obro‘; nom",
+          "definitionEn": "The opinion people have of someone or something."
+        },
+        {
+          "id": "level4-lesson-13-012",
+          "term": "Colonial",
+          "partOfSpeech": "adjective",
+          "translationUz": "mustamlakaga oid",
+          "definitionEn": "Relating to a colony or the time when it was ruled by another country."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-14",
+      "title": "Why Learning English is Essential · 5 Places You Need to Visit in Europe",
+      "lesson": 14,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-14-001",
+          "term": "Lane",
+          "partOfSpeech": "noun",
+          "translationUz": "tor ko‘cha; yo‘lak",
+          "definitionEn": "A narrow road."
+        },
+        {
+          "id": "level4-lesson-14-002",
+          "term": "Spot",
+          "partOfSpeech": "noun",
+          "translationUz": "joy",
+          "definitionEn": "A particular place."
+        },
+        {
+          "id": "level4-lesson-14-003",
+          "term": "Renowned for",
+          "partOfSpeech": "adjective",
+          "translationUz": "…bilan mashhur",
+          "definitionEn": "Famous for something."
+        },
+        {
+          "id": "level4-lesson-14-004",
+          "term": "Sensational",
+          "partOfSpeech": "adjective",
+          "translationUz": "ajoyib; shov-shuvli",
+          "definitionEn": "Very exciting and impressive."
+        },
+        {
+          "id": "level4-lesson-14-005",
+          "term": "Adventure",
+          "partOfSpeech": "noun",
+          "translationUz": "sarguzasht",
+          "definitionEn": "An exciting and unusual experience."
+        },
+        {
+          "id": "level4-lesson-14-006",
+          "term": "Narrow",
+          "partOfSpeech": "adjective",
+          "translationUz": "tor",
+          "definitionEn": "Not wide."
+        },
+        {
+          "id": "level4-lesson-14-007",
+          "term": "Employee",
+          "partOfSpeech": "noun",
+          "translationUz": "xodim",
+          "definitionEn": "A person who works for a company."
+        },
+        {
+          "id": "level4-lesson-14-008",
+          "term": "CV",
+          "partOfSpeech": "noun",
+          "translationUz": "rezyume (CV)",
+          "definitionEn": "A document listing your education and work experience."
+        },
+        {
+          "id": "level4-lesson-14-009",
+          "term": "Co-operate",
+          "partOfSpeech": "verb",
+          "translationUz": "hamkorlik qilmoq",
+          "definitionEn": "To work together with others."
+        },
+        {
+          "id": "level4-lesson-14-010",
+          "term": "Widely",
+          "partOfSpeech": "adverb",
+          "translationUz": "keng miqyosda",
+          "definitionEn": "By many people or in many places."
+        },
+        {
+          "id": "level4-lesson-14-011",
+          "term": "Honor",
+          "partOfSpeech": "noun",
+          "translationUz": "sharaf; hurmat",
+          "definitionEn": "Great respect and pride."
+        },
+        {
+          "id": "level4-lesson-14-012",
+          "term": "Recruit",
+          "partOfSpeech": "verb",
+          "translationUz": "ishga yollamoq",
+          "definitionEn": "To find new people to work for a company."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-15",
+      "title": "10 Unusual Foods People Eat in Europe · What is Brexit?",
+      "lesson": 15,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-15-001",
+          "term": "Vote",
+          "partOfSpeech": "noun",
+          "translationUz": "ovoz berish",
+          "definitionEn": "A formal choice made by a group of people."
+        },
+        {
+          "id": "level4-lesson-15-002",
+          "term": "Trigger",
+          "partOfSpeech": "verb",
+          "translationUz": "sabab bo‘lmoq; boshlab bermoq",
+          "definitionEn": "To make something start to happen."
+        },
+        {
+          "id": "level4-lesson-15-003",
+          "term": "Negotiation",
+          "partOfSpeech": "noun",
+          "translationUz": "muzokara",
+          "definitionEn": "Formal discussion to reach an agreement."
+        },
+        {
+          "id": "level4-lesson-15-004",
+          "term": "Predict",
+          "partOfSpeech": "verb",
+          "translationUz": "bashorat qilmoq",
+          "definitionEn": "To say what will happen in the future."
+        },
+        {
+          "id": "level4-lesson-15-005",
+          "term": "Eventually",
+          "partOfSpeech": "adverb",
+          "translationUz": "oxir-oqibat",
+          "definitionEn": "In the end, after a long time."
+        },
+        {
+          "id": "level4-lesson-15-006",
+          "term": "Currently",
+          "partOfSpeech": "adverb",
+          "translationUz": "hozirda",
+          "definitionEn": "At the present time."
+        },
+        {
+          "id": "level4-lesson-15-007",
+          "term": "Dumpling",
+          "partOfSpeech": "noun",
+          "translationUz": "chuchvara; manti",
+          "definitionEn": "A small ball of dough, often filled with meat."
+        },
+        {
+          "id": "level4-lesson-15-008",
+          "term": "Savory",
+          "partOfSpeech": "adjective",
+          "translationUz": "sho‘r-achchiq (shirin emas)",
+          "definitionEn": "Salty or spicy, not sweet."
+        },
+        {
+          "id": "level4-lesson-15-009",
+          "term": "Mouthful",
+          "partOfSpeech": "noun",
+          "translationUz": "bir og‘iz (luqma)",
+          "definitionEn": "The amount of food you put in your mouth at once."
+        },
+        {
+          "id": "level4-lesson-15-010",
+          "term": "Gross",
+          "partOfSpeech": "adjective",
+          "translationUz": "jirkanch",
+          "definitionEn": "Very unpleasant."
+        },
+        {
+          "id": "level4-lesson-15-011",
+          "term": "Weird",
+          "partOfSpeech": "adjective",
+          "translationUz": "g‘alati",
+          "definitionEn": "Very strange."
+        },
+        {
+          "id": "level4-lesson-15-012",
+          "term": "Delicacy",
+          "partOfSpeech": "noun",
+          "translationUz": "noyob lazzatli taom",
+          "definitionEn": "A rare or expensive food that is special to eat."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-16",
+      "title": "The History of Time · The Domestication of Cats",
+      "lesson": 16,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-16-001",
+          "term": "Touch",
+          "partOfSpeech": "verb",
+          "translationUz": "tegmoq",
+          "definitionEn": "To put your hand on something."
+        },
+        {
+          "id": "level4-lesson-16-002",
+          "term": "Mystery",
+          "partOfSpeech": "noun",
+          "translationUz": "sir; jumboq",
+          "definitionEn": "Something that is hard to understand or explain."
+        },
+        {
+          "id": "level4-lesson-16-003",
+          "term": "Eclipse",
+          "partOfSpeech": "noun",
+          "translationUz": "tutilish",
+          "definitionEn": "When the Moon or Sun is hidden by the shadow of another."
+        },
+        {
+          "id": "level4-lesson-16-004",
+          "term": "Disappear",
+          "partOfSpeech": "verb",
+          "translationUz": "g‘oyib bo‘lmoq",
+          "definitionEn": "To become impossible to see."
+        },
+        {
+          "id": "level4-lesson-16-005",
+          "term": "Equal",
+          "partOfSpeech": "verb",
+          "translationUz": "teng bo‘lmoq",
+          "definitionEn": "To be the same in amount or value."
+        },
+        {
+          "id": "level4-lesson-16-006",
+          "term": "Evenly",
+          "partOfSpeech": "adverb",
+          "translationUz": "teng ravishda",
+          "definitionEn": "In equal parts."
+        },
+        {
+          "id": "level4-lesson-16-007",
+          "term": "Offspring",
+          "partOfSpeech": "noun",
+          "translationUz": "nasl; bolalar",
+          "definitionEn": "The children or young of a person or animal."
+        },
+        {
+          "id": "level4-lesson-16-008",
+          "term": "Captive",
+          "partOfSpeech": "adjective",
+          "translationUz": "asir; qamalgan",
+          "definitionEn": "Kept as a prisoner; not free."
+        },
+        {
+          "id": "level4-lesson-16-009",
+          "term": "Common",
+          "partOfSpeech": "adjective",
+          "translationUz": "keng tarqalgan; umumiy",
+          "definitionEn": "Happening often; shared by many."
+        },
+        {
+          "id": "level4-lesson-16-010",
+          "term": "Tame",
+          "partOfSpeech": "adjective",
+          "translationUz": "qo‘lga o‘rgatilgan",
+          "definitionEn": "Not wild; used to living with people."
+        },
+        {
+          "id": "level4-lesson-16-011",
+          "term": "Adapt",
+          "partOfSpeech": "verb",
+          "translationUz": "moslashmoq",
+          "definitionEn": "To change to suit new conditions."
+        },
+        {
+          "id": "level4-lesson-16-012",
+          "term": "Tolerate",
+          "partOfSpeech": "verb",
+          "translationUz": "toqat qilmoq; chidamoq",
+          "definitionEn": "To accept something you do not like."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-17",
+      "title": "Kenyan Farmers Deploying AI · Warning Labels on Everyday Food",
+      "lesson": 17,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-17-001",
+          "term": "Deploy",
+          "partOfSpeech": "verb",
+          "translationUz": "joriy etmoq; qo‘llamoq",
+          "definitionEn": "To start using something for a purpose."
+        },
+        {
+          "id": "level4-lesson-17-002",
+          "term": "Fertilizer",
+          "partOfSpeech": "noun",
+          "translationUz": "o‘g‘it",
+          "definitionEn": "A substance added to soil to help plants grow."
+        },
+        {
+          "id": "level4-lesson-17-003",
+          "term": "Knowhow",
+          "partOfSpeech": "noun",
+          "translationUz": "tajriba; bilim",
+          "definitionEn": "Practical knowledge of how to do something."
+        },
+        {
+          "id": "level4-lesson-17-004",
+          "term": "Identify",
+          "partOfSpeech": "verb",
+          "translationUz": "aniqlamoq",
+          "definitionEn": "To recognise and name something."
+        },
+        {
+          "id": "level4-lesson-17-005",
+          "term": "Plot",
+          "partOfSpeech": "noun",
+          "translationUz": "yer uchastkasi",
+          "definitionEn": "A small piece of land."
+        },
+        {
+          "id": "level4-lesson-17-006",
+          "term": "Charge",
+          "partOfSpeech": "verb",
+          "translationUz": "haq olmoq",
+          "definitionEn": "To ask an amount of money for something."
+        },
+        {
+          "id": "level4-lesson-17-007",
+          "term": "Hard-hitting",
+          "partOfSpeech": "adjective",
+          "translationUz": "keskin; ta’sirchan",
+          "definitionEn": "Strong and direct, making people pay attention."
+        },
+        {
+          "id": "level4-lesson-17-008",
+          "term": "Junk food",
+          "partOfSpeech": "noun",
+          "translationUz": "zararli fast-fud",
+          "definitionEn": "Unhealthy food with lots of fat, sugar or salt."
+        },
+        {
+          "id": "level4-lesson-17-009",
+          "term": "Stroke",
+          "partOfSpeech": "noun",
+          "translationUz": "insult",
+          "definitionEn": "A sudden illness when blood stops reaching part of the brain."
+        },
+        {
+          "id": "level4-lesson-17-010",
+          "term": "Charity",
+          "partOfSpeech": "noun",
+          "translationUz": "xayriya tashkiloti",
+          "definitionEn": "An organisation that helps people in need."
+        },
+        {
+          "id": "level4-lesson-17-011",
+          "term": "Ban",
+          "partOfSpeech": "noun",
+          "translationUz": "taqiq",
+          "definitionEn": "An official rule that forbids something."
+        },
+        {
+          "id": "level4-lesson-17-012",
+          "term": "Misleading",
+          "partOfSpeech": "adjective",
+          "translationUz": "chalg‘ituvchi",
+          "definitionEn": "Giving a false idea."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-18",
+      "title": "The Secrets of the Deep Ocean",
+      "lesson": 18,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-18-001",
+          "term": "Uncover",
+          "partOfSpeech": "verb",
+          "translationUz": "ochib bermoq; aniqlamoq",
+          "definitionEn": "To discover something hidden."
+        },
+        {
+          "id": "level4-lesson-18-002",
+          "term": "Fascinating",
+          "partOfSpeech": "adjective",
+          "translationUz": "maftunkor; juda qiziqarli",
+          "definitionEn": "Extremely interesting."
+        },
+        {
+          "id": "level4-lesson-18-003",
+          "term": "Unique",
+          "partOfSpeech": "adjective",
+          "translationUz": "noyob; yagona",
+          "definitionEn": "Being the only one of its kind."
+        },
+        {
+          "id": "level4-lesson-18-004",
+          "term": "Confuse",
+          "partOfSpeech": "verb",
+          "translationUz": "chalkashtirmoq",
+          "definitionEn": "To make someone unable to understand."
+        },
+        {
+          "id": "level4-lesson-18-005",
+          "term": "Incredible",
+          "partOfSpeech": "adjective",
+          "translationUz": "aql bovar qilmaydigan",
+          "definitionEn": "Very surprising or hard to believe."
+        },
+        {
+          "id": "level4-lesson-18-006",
+          "term": "Thrive",
+          "partOfSpeech": "verb",
+          "translationUz": "gullab-yashnamoq",
+          "definitionEn": "To grow or develop very well."
+        },
+        {
+          "id": "level4-lesson-18-007",
+          "term": "Support",
+          "partOfSpeech": "verb",
+          "translationUz": "qo‘llab-quvvatlamoq; ta’minlamoq",
+          "definitionEn": "To help something live or continue."
+        },
+        {
+          "id": "level4-lesson-18-008",
+          "term": "Consistent",
+          "partOfSpeech": "adjective",
+          "translationUz": "barqaror; o‘zgarmas",
+          "definitionEn": "Always the same."
+        },
+        {
+          "id": "level4-lesson-18-009",
+          "term": "Terrifying",
+          "partOfSpeech": "adjective",
+          "translationUz": "dahshatli",
+          "definitionEn": "Very frightening."
+        },
+        {
+          "id": "level4-lesson-18-010",
+          "term": "Estimate",
+          "partOfSpeech": "verb",
+          "translationUz": "taxmin qilmoq",
+          "definitionEn": "To guess a size, number or value."
+        },
+        {
+          "id": "level4-lesson-18-011",
+          "term": "Immense",
+          "partOfSpeech": "adjective",
+          "translationUz": "ulkan",
+          "definitionEn": "Extremely large."
+        },
+        {
+          "id": "level4-lesson-18-012",
+          "term": "Advancement",
+          "partOfSpeech": "noun",
+          "translationUz": "taraqqiyot; rivojlanish",
+          "definitionEn": "Progress in science or technology."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-19",
+      "title": "The Impact of Climate Change · Scientists Propose Lunar Storage",
+      "lesson": 19,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-19-001",
+          "term": "Solve",
+          "partOfSpeech": "verb",
+          "translationUz": "hal qilmoq",
+          "definitionEn": "To find an answer to a problem."
+        },
+        {
+          "id": "level4-lesson-19-002",
+          "term": "Long-term",
+          "partOfSpeech": "adjective",
+          "translationUz": "uzoq muddatli",
+          "definitionEn": "Lasting or having an effect for a long time."
+        },
+        {
+          "id": "level4-lesson-19-003",
+          "term": "Greenhouse gas",
+          "partOfSpeech": "noun",
+          "translationUz": "issiqxona gazi",
+          "definitionEn": "A gas, like CO₂, that traps heat in the atmosphere."
+        },
+        {
+          "id": "level4-lesson-19-004",
+          "term": "Release",
+          "partOfSpeech": "verb",
+          "translationUz": "chiqarmoq",
+          "definitionEn": "To let a substance go into the air or water."
+        },
+        {
+          "id": "level4-lesson-19-005",
+          "term": "Switch",
+          "partOfSpeech": "noun",
+          "translationUz": "o‘tish; almashtirish",
+          "definitionEn": "A change from one thing to another."
+        },
+        {
+          "id": "level4-lesson-19-006",
+          "term": "Challenge",
+          "partOfSpeech": "noun",
+          "translationUz": "qiyinchilik; sinov",
+          "definitionEn": "Something difficult that tests your ability."
+        },
+        {
+          "id": "level4-lesson-19-007",
+          "term": "Propose",
+          "partOfSpeech": "verb",
+          "translationUz": "taklif qilmoq",
+          "definitionEn": "To suggest a plan or idea."
+        },
+        {
+          "id": "level4-lesson-19-008",
+          "term": "Protect",
+          "partOfSpeech": "verb",
+          "translationUz": "himoya qilmoq",
+          "definitionEn": "To keep safe from harm."
+        },
+        {
+          "id": "level4-lesson-19-009",
+          "term": "Extinction",
+          "partOfSpeech": "noun",
+          "translationUz": "yo‘q bo‘lib ketish",
+          "definitionEn": "When a type of animal or plant no longer exists."
+        },
+        {
+          "id": "level4-lesson-19-010",
+          "term": "Pose",
+          "partOfSpeech": "verb",
+          "translationUz": "(xavf) tug‘dirmoq",
+          "definitionEn": "To cause a problem or threat (pose a risk)."
+        },
+        {
+          "id": "level4-lesson-19-011",
+          "term": "Preserve",
+          "partOfSpeech": "verb",
+          "translationUz": "saqlab qolmoq",
+          "definitionEn": "To keep something safe from damage or loss."
+        },
+        {
+          "id": "level4-lesson-19-012",
+          "term": "Clone",
+          "partOfSpeech": "verb",
+          "translationUz": "klonlamoq",
+          "definitionEn": "To make an exact genetic copy of a plant or animal."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-20",
+      "title": "Donald Trump Shot at During Rally · Tokyo's Old Fish Market to Be Redeveloped",
+      "lesson": 20,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-20-001",
+          "term": "Rally",
+          "partOfSpeech": "noun",
+          "translationUz": "miting",
+          "definitionEn": "A large public meeting to support a person or idea."
+        },
+        {
+          "id": "level4-lesson-20-002",
+          "term": "Former",
+          "partOfSpeech": "adjective",
+          "translationUz": "sobiq",
+          "definitionEn": "Having been something in the past."
+        },
+        {
+          "id": "level4-lesson-20-003",
+          "term": "Fire",
+          "partOfSpeech": "verb",
+          "translationUz": "o‘q uzmoq",
+          "definitionEn": "To shoot a gun."
+        },
+        {
+          "id": "level4-lesson-20-004",
+          "term": "Purchase",
+          "partOfSpeech": "verb",
+          "translationUz": "sotib olmoq",
+          "definitionEn": "To buy."
+        },
+        {
+          "id": "level4-lesson-20-005",
+          "term": "Bleeding",
+          "partOfSpeech": "noun",
+          "translationUz": "qon ketishi",
+          "definitionEn": "Losing blood from a wound."
+        },
+        {
+          "id": "level4-lesson-20-006",
+          "term": "Pierce",
+          "partOfSpeech": "verb",
+          "translationUz": "teshib o‘tmoq",
+          "definitionEn": "To go into or through something with a sharp point."
+        },
+        {
+          "id": "level4-lesson-20-007",
+          "term": "Waterfront",
+          "partOfSpeech": "noun",
+          "translationUz": "sohil bo‘yi",
+          "definitionEn": "The part of a town next to the sea, a lake or a river."
+        },
+        {
+          "id": "level4-lesson-20-008",
+          "term": "Auction",
+          "partOfSpeech": "noun",
+          "translationUz": "kim oshdi savdosi",
+          "definitionEn": "A sale where things go to the person who offers the most."
+        },
+        {
+          "id": "level4-lesson-20-009",
+          "term": "Demolish",
+          "partOfSpeech": "verb",
+          "translationUz": "buzib tashlamoq",
+          "definitionEn": "To destroy a building completely."
+        },
+        {
+          "id": "level4-lesson-20-010",
+          "term": "Lot",
+          "partOfSpeech": "noun",
+          "translationUz": "yer maydoni",
+          "definitionEn": "An area of land."
+        },
+        {
+          "id": "level4-lesson-20-011",
+          "term": "Stall",
+          "partOfSpeech": "noun",
+          "translationUz": "rasta; do‘koncha",
+          "definitionEn": "A small open shop or table in a market."
+        },
+        {
+          "id": "level4-lesson-20-012",
+          "term": "Top",
+          "partOfSpeech": "adjective",
+          "translationUz": "eng yaxshi; yetakchi",
+          "definitionEn": "Best or most important."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-21",
+      "title": "Koala Cuddles Banned · Odd Jobs in Tasmania · Fans Come to Germany for Euro 2024",
+      "lesson": 21,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-21-001",
+          "term": "Cuddle",
+          "partOfSpeech": "noun",
+          "translationUz": "quchoqlash",
+          "definitionEn": "A warm, loving hug."
+        },
+        {
+          "id": "level4-lesson-21-002",
+          "term": "Celebrity",
+          "partOfSpeech": "noun",
+          "translationUz": "mashhur shaxs",
+          "definitionEn": "A famous person."
+        },
+        {
+          "id": "level4-lesson-21-003",
+          "term": "Pleased",
+          "partOfSpeech": "adjective",
+          "translationUz": "mamnun",
+          "definitionEn": "Happy or satisfied."
+        },
+        {
+          "id": "level4-lesson-21-004",
+          "term": "Allow",
+          "partOfSpeech": "verb",
+          "translationUz": "ruxsat bermoq",
+          "definitionEn": "To let someone do something."
+        },
+        {
+          "id": "level4-lesson-21-005",
+          "term": "Campaign",
+          "partOfSpeech": "noun",
+          "translationUz": "kampaniya; aksiya",
+          "definitionEn": "A planned series of actions to achieve a goal."
+        },
+        {
+          "id": "level4-lesson-21-006",
+          "term": "Swap",
+          "partOfSpeech": "verb",
+          "translationUz": "almashtirmoq",
+          "definitionEn": "To exchange one thing for another."
+        },
+        {
+          "id": "level4-lesson-21-007",
+          "term": "Unpaid",
+          "partOfSpeech": "adjective",
+          "translationUz": "haq to‘lanmaydigan",
+          "definitionEn": "Done without receiving money."
+        },
+        {
+          "id": "level4-lesson-21-008",
+          "term": "Applicant",
+          "partOfSpeech": "noun",
+          "translationUz": "ariza beruvchi; nomzod",
+          "definitionEn": "A person who formally asks for a job or place."
+        },
+        {
+          "id": "level4-lesson-21-009",
+          "term": "Tournament",
+          "partOfSpeech": "noun",
+          "translationUz": "turnir",
+          "definitionEn": "A competition with many games or players."
+        },
+        {
+          "id": "level4-lesson-21-010",
+          "term": "Ticket",
+          "partOfSpeech": "noun",
+          "translationUz": "chipta",
+          "definitionEn": "A paper or card that lets you enter an event or travel."
+        },
+        {
+          "id": "level4-lesson-21-011",
+          "term": "Anthem",
+          "partOfSpeech": "noun",
+          "translationUz": "madhiya",
+          "definitionEn": "A song for a country or team, sung on special occasions."
+        },
+        {
+          "id": "level4-lesson-21-012",
+          "term": "Festive",
+          "partOfSpeech": "adjective",
+          "translationUz": "bayramona",
+          "definitionEn": "Happy and cheerful, like a celebration."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-22",
+      "title": "Secret 'Workations' · Man Dies of Bird Flu · Starship Ocean Landing",
+      "lesson": 22,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-22-001",
+          "term": "Remotely",
+          "partOfSpeech": "adverb",
+          "translationUz": "masofadan",
+          "definitionEn": "From a distance, not in the office."
+        },
+        {
+          "id": "level4-lesson-22-002",
+          "term": "Vacation",
+          "partOfSpeech": "noun",
+          "translationUz": "ta’til",
+          "definitionEn": "A period of time away from work for rest or travel."
+        },
+        {
+          "id": "level4-lesson-22-003",
+          "term": "Deal",
+          "partOfSpeech": "noun",
+          "translationUz": "bitim; kelishuv",
+          "definitionEn": "An agreement, often in business."
+        },
+        {
+          "id": "level4-lesson-22-004",
+          "term": "Fake",
+          "partOfSpeech": "noun",
+          "translationUz": "soxta narsa",
+          "definitionEn": "Something made to look real but not real."
+        },
+        {
+          "id": "level4-lesson-22-005",
+          "term": "Potential",
+          "partOfSpeech": "noun",
+          "translationUz": "imkoniyat; salohiyat",
+          "definitionEn": "The possibility to develop or happen in the future."
+        },
+        {
+          "id": "level4-lesson-22-006",
+          "term": "Authority",
+          "partOfSpeech": "noun",
+          "translationUz": "rasmiy organ; hokimiyat",
+          "definitionEn": "An official organisation with power to make decisions."
+        },
+        {
+          "id": "level4-lesson-22-007",
+          "term": "Confirm",
+          "partOfSpeech": "verb",
+          "translationUz": "tasdiqlamoq",
+          "definitionEn": "To say that something is definitely true."
+        },
+        {
+          "id": "level4-lesson-22-008",
+          "term": "State",
+          "partOfSpeech": "verb",
+          "translationUz": "bayon qilmoq",
+          "definitionEn": "To say something formally."
+        },
+        {
+          "id": "level4-lesson-22-009",
+          "term": "Complete",
+          "partOfSpeech": "verb",
+          "translationUz": "yakunlamoq",
+          "definitionEn": "To finish something."
+        },
+        {
+          "id": "level4-lesson-22-010",
+          "term": "Land",
+          "partOfSpeech": "verb",
+          "translationUz": "qo‘nmoq",
+          "definitionEn": "To come down to the ground or water after flying."
+        },
+        {
+          "id": "level4-lesson-22-011",
+          "term": "Hover",
+          "partOfSpeech": "verb",
+          "translationUz": "havoda muallaq turmoq",
+          "definitionEn": "To stay in the air in one place."
+        },
+        {
+          "id": "level4-lesson-22-012",
+          "term": "Goal",
+          "partOfSpeech": "noun",
+          "translationUz": "maqsad",
+          "definitionEn": "Something you want to achieve."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-23",
+      "title": "Couple Find Safe in Lake · How Rain Can Make You Happier · New EU Repair Rules",
+      "lesson": 23,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-23-001",
+          "term": "Safe",
+          "partOfSpeech": "noun",
+          "translationUz": "seyf",
+          "definitionEn": "A strong metal box for keeping money and valuables."
+        },
+        {
+          "id": "level4-lesson-23-002",
+          "term": "Contain",
+          "partOfSpeech": "verb",
+          "translationUz": "ichida bo‘lmoq; saqlamoq",
+          "definitionEn": "To have something inside."
+        },
+        {
+          "id": "level4-lesson-23-003",
+          "term": "Throw",
+          "partOfSpeech": "verb",
+          "translationUz": "otmoq; tashlamoq",
+          "definitionEn": "To send something through the air with your hand."
+        },
+        {
+          "id": "level4-lesson-23-004",
+          "term": "Extraordinary",
+          "partOfSpeech": "adjective",
+          "translationUz": "favqulodda; g‘ayrioddiy",
+          "definitionEn": "Very unusual or surprising."
+        },
+        {
+          "id": "level4-lesson-23-005",
+          "term": "Gloomy",
+          "partOfSpeech": "adjective",
+          "translationUz": "g‘amgin; qorong‘i",
+          "definitionEn": "Dark and sad."
+        },
+        {
+          "id": "level4-lesson-23-006",
+          "term": "Well-being",
+          "partOfSpeech": "noun",
+          "translationUz": "farovonlik; sog‘lik",
+          "definitionEn": "The state of being healthy and happy."
+        },
+        {
+          "id": "level4-lesson-23-007",
+          "term": "Boost",
+          "partOfSpeech": "verb",
+          "translationUz": "oshirmoq; kuchaytirmoq",
+          "definitionEn": "To increase or improve something."
+        },
+        {
+          "id": "level4-lesson-23-008",
+          "term": "Compelling",
+          "partOfSpeech": "adjective",
+          "translationUz": "ishonarli; jozibali",
+          "definitionEn": "Very interesting or convincing."
+        },
+        {
+          "id": "level4-lesson-23-009",
+          "term": "Directive",
+          "partOfSpeech": "noun",
+          "translationUz": "direktiva; ko‘rsatma",
+          "definitionEn": "An official instruction or rule."
+        },
+        {
+          "id": "level4-lesson-23-010",
+          "term": "Expire",
+          "partOfSpeech": "verb",
+          "translationUz": "muddati tugamoq",
+          "definitionEn": "To come to the end of the time it can be used."
+        },
+        {
+          "id": "level4-lesson-23-011",
+          "term": "Warranty",
+          "partOfSpeech": "noun",
+          "translationUz": "kafolat",
+          "definitionEn": "A written promise to repair a product if it breaks."
+        },
+        {
+          "id": "level4-lesson-23-012",
+          "term": "Extend",
+          "partOfSpeech": "verb",
+          "translationUz": "uzaytirmoq",
+          "definitionEn": "To make something last longer."
+        }
+      ]
+    },
+    {
+      "id": "level4-lesson-24",
+      "title": "Northern Lights over Europe · Japan Blocks Mt Fuji View · 100% Tariff on Chinese EVs",
+      "lesson": 24,
+      "wordCount": 12,
+      "words": [
+        {
+          "id": "level4-lesson-24-001",
+          "term": "Mesmerizing",
+          "partOfSpeech": "adjective",
+          "translationUz": "sehrlovchi",
+          "definitionEn": "So beautiful that you cannot look away."
+        },
+        {
+          "id": "level4-lesson-24-002",
+          "term": "Particle",
+          "partOfSpeech": "noun",
+          "translationUz": "zarra",
+          "definitionEn": "A very small piece of something."
+        },
+        {
+          "id": "level4-lesson-24-003",
+          "term": "Moderate",
+          "partOfSpeech": "adjective",
+          "translationUz": "o‘rtacha",
+          "definitionEn": "Not too big and not too small."
+        },
+        {
+          "id": "level4-lesson-24-004",
+          "term": "Disruption",
+          "partOfSpeech": "noun",
+          "translationUz": "uzilish; buzilish",
+          "definitionEn": "A problem that stops something working normally."
+        },
+        {
+          "id": "level4-lesson-24-005",
+          "term": "Block",
+          "partOfSpeech": "verb",
+          "translationUz": "to‘smoq",
+          "definitionEn": "To stop something from being seen or getting through."
+        },
+        {
+          "id": "level4-lesson-24-006",
+          "term": "Deter",
+          "partOfSpeech": "verb",
+          "translationUz": "to‘xtatib qolmoq; qaytarmoq",
+          "definitionEn": "To make someone decide not to do something."
+        },
+        {
+          "id": "level4-lesson-24-007",
+          "term": "Fence",
+          "partOfSpeech": "noun",
+          "translationUz": "to‘siq; devor",
+          "definitionEn": "A barrier around an area of land."
+        },
+        {
+          "id": "level4-lesson-24-008",
+          "term": "Tension",
+          "partOfSpeech": "noun",
+          "translationUz": "keskinlik",
+          "definitionEn": "A feeling of worry or unfriendliness between groups."
+        },
+        {
+          "id": "level4-lesson-24-009",
+          "term": "Tariff",
+          "partOfSpeech": "noun",
+          "translationUz": "boj; tarif",
+          "definitionEn": "A tax on goods coming into a country."
+        },
+        {
+          "id": "level4-lesson-24-010",
+          "term": "Escalate",
+          "partOfSpeech": "verb",
+          "translationUz": "kuchaymoq; avj olmoq",
+          "definitionEn": "To become more serious."
+        },
+        {
+          "id": "level4-lesson-24-011",
+          "term": "Indicate",
+          "partOfSpeech": "verb",
+          "translationUz": "ko‘rsatmoq; bildirmoq",
+          "definitionEn": "To show or suggest something."
+        },
+        {
+          "id": "level4-lesson-24-012",
+          "term": "Face",
+          "partOfSpeech": "verb",
+          "translationUz": "duch kelmoq",
+          "definitionEn": "To have to deal with a difficult situation."
+        }
+      ]
+    }
+  ],
+  "totalWords": 276
+}
