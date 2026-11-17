@@ -2,7 +2,7 @@
 import { ref } from 'vue'
 import { onClickOutside, useDark, useToggle } from '@vueuse/core'
 import { useRoute, useRouter } from 'vue-router'
-import { CloudOff, Flame, Gem, House, LogOut, Moon, Sun, Trophy } from '@lucide/vue'
+import { BookA, CloudOff, Flame, Gem, House, LogOut, Moon, Sun, Trophy } from '@lucide/vue'
 import Mascot from './components/Mascot.vue'
 import Avatar from './components/Avatar.vue'
 import { syncError, useStats } from './composables/useProgress'
@@ -29,7 +29,7 @@ async function doLogout() {
 <template>
   <div class="min-h-screen">
     <!-- Lesson and sign-in screens are full-focus. No top nav. -->
-    <header v-if="user && route.name !== 'lesson' && route.name !== 'welcome'" class="sticky top-0 z-30 border-b-2 border-line bg-bg/95 backdrop-blur">
+    <header v-if="user && !['lesson', 'welcome', 'practice'].includes(String(route.name))" class="sticky top-0 z-30 border-b-2 border-line bg-bg/95 backdrop-blur">
       <div class="mx-auto flex h-16 max-w-5xl items-center justify-between gap-2 px-4">
         <div class="flex items-center gap-1 sm:gap-4">
           <RouterLink to="/" class="mr-2 flex items-center gap-2">
@@ -42,6 +42,13 @@ async function doLogout() {
             exact-active-class="border-wave! bg-wave-tint text-wave-dark!"
           >
             <House :size="18" :stroke-width="2.5" /> <span class="hidden sm:inline">Learn</span>
+          </RouterLink>
+          <RouterLink
+            to="/words"
+            class="flex items-center gap-1.5 rounded-xl border-2 border-transparent px-3 py-1.5 text-sm font-extrabold text-mute-2 uppercase hover:bg-card-2"
+            active-class="border-plum! bg-plum-tint text-plum-dark!"
+          >
+            <BookA :size="18" :stroke-width="2.5" /> <span class="hidden sm:inline">Words</span>
           </RouterLink>
           <RouterLink
             to="/group"

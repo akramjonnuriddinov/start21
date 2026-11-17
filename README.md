@@ -1,7 +1,10 @@
 # echo · listening practice
 
 A listening-practice app for a study group: 20 recordings, an answer sheet per
-lesson, XP, streaks and a group league.
+lesson, a word bank (235 words in 6 topics, English → Uzbek, with flashcards and
+quizzes), XP, streaks and a group league.
+
+The word bank comes from `src/data/words.json`. Replace that file to change the words.
 
 - **Frontend:** Vue 3 + Tailwind v4 (`src/`)
 - **Backend:** Go + PostgreSQL (`cmd/server/`)
@@ -69,6 +72,7 @@ Cloudflare tunnel) before sharing the link.
 | GET    | `/api/me`                    | ✓    | current user                          |
 | GET    | `/api/state`                 | ✓    | all lesson progress + XP per day      |
 | PUT    | `/api/progress/{lesson-NN}`  | ✓    | save one lesson's state               |
+| PUT    | `/api/progress/words`        | ✓    | save word-bank progress               |
 | POST   | `/api/xp`                    | ✓    | `{day, amount}` add XP for a day      |
 | GET    | `/api/leaderboard`           | ✓    | group ranking                         |
 

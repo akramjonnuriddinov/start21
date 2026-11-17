@@ -1,0 +1,1698 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataset": "English Vocabulary Bank",
+  "sourceLanguage": "en",
+  "targetLanguage": "uz",
+  "translationLocale": "uz-Latn",
+  "description": "Vocabulary collected from six English-learning themes, with Uzbek translations and short English definitions.",
+  "themes": [
+    {
+      "id": "beautiful-natural-places",
+      "title": "Beautiful Natural Places",
+      "words": [
+        {
+          "id": "beautiful-natural-places-001",
+          "term": "Arch",
+          "partOfSpeech": "noun",
+          "translationUz": "ravoq; ark",
+          "definitionEn": "A curved structure over an opening."
+        },
+        {
+          "id": "beautiful-natural-places-002",
+          "term": "Explore",
+          "partOfSpeech": "verb",
+          "translationUz": "tadqiq qilmoq; o‘rganmoq",
+          "definitionEn": "To travel around and discover something."
+        },
+        {
+          "id": "beautiful-natural-places-003",
+          "term": "Sunbathe",
+          "partOfSpeech": "verb",
+          "translationUz": "quyoshda toblanmoq",
+          "definitionEn": "To sit or lie in the sun."
+        },
+        {
+          "id": "beautiful-natural-places-004",
+          "term": "Destination",
+          "partOfSpeech": "noun",
+          "translationUz": "manzil",
+          "definitionEn": "The place where someone is going."
+        },
+        {
+          "id": "beautiful-natural-places-005",
+          "term": "Curvy",
+          "partOfSpeech": "adjective",
+          "translationUz": "egri-bugri; jingalak",
+          "definitionEn": "Having many curves or bends."
+        },
+        {
+          "id": "beautiful-natural-places-006",
+          "term": "Hill",
+          "partOfSpeech": "noun",
+          "translationUz": "tepalik",
+          "definitionEn": "An area of land higher than the surrounding land."
+        },
+        {
+          "id": "beautiful-natural-places-007",
+          "term": "Species",
+          "partOfSpeech": "noun",
+          "translationUz": "tur",
+          "definitionEn": "A group of similar animals or plants."
+        },
+        {
+          "id": "beautiful-natural-places-008",
+          "term": "Vineyard",
+          "partOfSpeech": "noun",
+          "translationUz": "uzumzor",
+          "definitionEn": "A place where grapes are grown."
+        },
+        {
+          "id": "beautiful-natural-places-009",
+          "term": "Untouched",
+          "partOfSpeech": "adjective",
+          "translationUz": "tegilmagan; buzilmagan",
+          "definitionEn": "Not changed or damaged by people."
+        },
+        {
+          "id": "beautiful-natural-places-010",
+          "term": "Enchanting",
+          "partOfSpeech": "adjective",
+          "translationUz": "maftunkor; sehrli",
+          "definitionEn": "Very beautiful and attractive."
+        },
+        {
+          "id": "beautiful-natural-places-011",
+          "term": "Settle",
+          "partOfSpeech": "verb",
+          "translationUz": "joylashmoq; o‘rnashmoq",
+          "definitionEn": "To start living in a particular place."
+        },
+        {
+          "id": "beautiful-natural-places-012",
+          "term": "Glorious",
+          "partOfSpeech": "adjective",
+          "translationUz": "shonli; ajoyib",
+          "definitionEn": "Very beautiful or impressive."
+        },
+        {
+          "id": "beautiful-natural-places-013",
+          "term": "Abandon",
+          "partOfSpeech": "verb",
+          "translationUz": "tashlab ketmoq",
+          "definitionEn": "To leave something or someone behind."
+        },
+        {
+          "id": "beautiful-natural-places-014",
+          "term": "Channel",
+          "partOfSpeech": "verb",
+          "translationUz": "yo‘naltirmoq",
+          "definitionEn": "To direct something towards a particular purpose."
+        },
+        {
+          "id": "beautiful-natural-places-015",
+          "term": "Stunning",
+          "partOfSpeech": "adjective",
+          "translationUz": "hayratlanarli; maftunkor",
+          "definitionEn": "Extremely beautiful or impressive."
+        },
+        {
+          "id": "beautiful-natural-places-016",
+          "term": "Challenge",
+          "partOfSpeech": "verb",
+          "translationUz": "qiyinchilik tug‘dirmoq; sinovdan o‘tkazmoq",
+          "definitionEn": "To test someone's ability."
+        },
+        {
+          "id": "beautiful-natural-places-017",
+          "term": "Ascent",
+          "partOfSpeech": "noun",
+          "translationUz": "ko‘tarilish",
+          "definitionEn": "The act of moving upwards."
+        },
+        {
+          "id": "beautiful-natural-places-018",
+          "term": "Extend to",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "...gacha cho‘zilmoq",
+          "definitionEn": "To reach or continue up to a point."
+        },
+        {
+          "id": "beautiful-natural-places-019",
+          "term": "Yet",
+          "partOfSpeech": "adverb",
+          "translationUz": "hali; hozirgacha",
+          "definitionEn": "Until now; used to say something has not happened."
+        },
+        {
+          "id": "beautiful-natural-places-020",
+          "term": "Occasional",
+          "partOfSpeech": "adjective",
+          "translationUz": "vaqti-vaqti bilan bo‘ladigan",
+          "definitionEn": "Happening sometimes, but not regularly."
+        },
+        {
+          "id": "beautiful-natural-places-021",
+          "term": "Retirement",
+          "partOfSpeech": "noun",
+          "translationUz": "nafaqaga chiqish; nafaqa davri",
+          "definitionEn": "The time when someone stops working."
+        },
+        {
+          "id": "beautiful-natural-places-022",
+          "term": "Resident",
+          "partOfSpeech": "noun",
+          "translationUz": "yashovchi; istiqomat qiluvchi",
+          "definitionEn": "A person who lives in a particular place."
+        },
+        {
+          "id": "beautiful-natural-places-023",
+          "term": "Reserve",
+          "partOfSpeech": "noun",
+          "translationUz": "qo‘riqxona; rezerv",
+          "definitionEn": "An area protected for wildlife or nature."
+        },
+        {
+          "id": "beautiful-natural-places-024",
+          "term": "Descend",
+          "partOfSpeech": "verb",
+          "translationUz": "pastga tushmoq",
+          "definitionEn": "To move down from a higher place."
+        },
+        {
+          "id": "beautiful-natural-places-025",
+          "term": "Glad",
+          "partOfSpeech": "adjective",
+          "translationUz": "xursand; mamnun",
+          "definitionEn": "Feeling happy about something."
+        },
+        {
+          "id": "beautiful-natural-places-026",
+          "term": "Known for",
+          "partOfSpeech": "phrase",
+          "translationUz": "...bilan mashhur",
+          "definitionEn": "Famous because of something."
+        },
+        {
+          "id": "beautiful-natural-places-027",
+          "term": "Wine",
+          "partOfSpeech": "noun",
+          "translationUz": "vino; uzum vinosi",
+          "definitionEn": "An alcoholic drink made from grapes."
+        },
+        {
+          "id": "beautiful-natural-places-028",
+          "term": "Prove",
+          "partOfSpeech": "verb",
+          "translationUz": "isbotlamoq",
+          "definitionEn": "To show that something is true."
+        },
+        {
+          "id": "beautiful-natural-places-029",
+          "term": "Glacier",
+          "partOfSpeech": "noun",
+          "translationUz": "muzlik",
+          "definitionEn": "A large mass of ice that moves slowly."
+        },
+        {
+          "id": "beautiful-natural-places-030",
+          "term": "Photograph",
+          "partOfSpeech": "verb",
+          "translationUz": "suratga olmoq",
+          "definitionEn": "To take a picture with a camera."
+        },
+        {
+          "id": "beautiful-natural-places-031",
+          "term": "Fall",
+          "partOfSpeech": "verb",
+          "translationUz": "yiqilmoq; tushmoq",
+          "definitionEn": "To move down suddenly or accidentally."
+        },
+        {
+          "id": "beautiful-natural-places-032",
+          "term": "Flat",
+          "partOfSpeech": "adjective",
+          "translationUz": "tekis",
+          "definitionEn": "Having a smooth, level surface."
+        },
+        {
+          "id": "beautiful-natural-places-033",
+          "term": "Ruins",
+          "partOfSpeech": "noun",
+          "translationUz": "xarobalar",
+          "definitionEn": "The remains of an old building."
+        },
+        {
+          "id": "beautiful-natural-places-034",
+          "term": "Indigenous",
+          "partOfSpeech": "adjective",
+          "translationUz": "mahalliy; tubjoy",
+          "definitionEn": "Originally from a particular place."
+        },
+        {
+          "id": "beautiful-natural-places-035",
+          "term": "Protective",
+          "partOfSpeech": "adjective",
+          "translationUz": "himoya qiluvchi",
+          "definitionEn": "Providing protection from danger."
+        },
+        {
+          "id": "beautiful-natural-places-036",
+          "term": "Manage",
+          "partOfSpeech": "verb",
+          "translationUz": "boshqarmoq; uddalamoq",
+          "definitionEn": "To control something or succeed in doing something."
+        },
+        {
+          "id": "beautiful-natural-places-037",
+          "term": "Conqueror",
+          "partOfSpeech": "noun",
+          "translationUz": "bosib oluvchi; g‘olib",
+          "definitionEn": "A person who defeats and takes control of a place."
+        },
+        {
+          "id": "beautiful-natural-places-038",
+          "term": "Phenomenon",
+          "partOfSpeech": "noun",
+          "translationUz": "hodisa",
+          "definitionEn": "Something unusual or interesting that happens."
+        },
+        {
+          "id": "beautiful-natural-places-039",
+          "term": "Surrounded",
+          "partOfSpeech": "adjective",
+          "translationUz": "o‘rab olingan",
+          "definitionEn": "Having something all around."
+        },
+        {
+          "id": "beautiful-natural-places-040",
+          "term": "Landscape",
+          "partOfSpeech": "noun",
+          "translationUz": "manzara",
+          "definitionEn": "The visible features of an area of land."
+        },
+        {
+          "id": "beautiful-natural-places-041",
+          "term": "Relatively",
+          "partOfSpeech": "adverb",
+          "translationUz": "nisbatan",
+          "definitionEn": "When compared with something else."
+        },
+        {
+          "id": "beautiful-natural-places-042",
+          "term": "Continent",
+          "partOfSpeech": "noun",
+          "translationUz": "qit’a",
+          "definitionEn": "One of the world's large land areas."
+        },
+        {
+          "id": "beautiful-natural-places-043",
+          "term": "Valuable",
+          "partOfSpeech": "adjective",
+          "translationUz": "qimmatli",
+          "definitionEn": "Worth a lot of money or importance."
+        },
+        {
+          "id": "beautiful-natural-places-044",
+          "term": "Explorer",
+          "partOfSpeech": "noun",
+          "translationUz": "tadqiqotchi; sayohatchi",
+          "definitionEn": "A person who travels to discover places."
+        },
+        {
+          "id": "beautiful-natural-places-045",
+          "term": "Due to",
+          "partOfSpeech": "phrase",
+          "translationUz": "sababli; tufayli",
+          "definitionEn": "Because of something."
+        },
+        {
+          "id": "beautiful-natural-places-046",
+          "term": "Hippo",
+          "partOfSpeech": "noun",
+          "translationUz": "begemot",
+          "definitionEn": "A large African animal that lives near water."
+        },
+        {
+          "id": "beautiful-natural-places-047",
+          "term": "Diverse",
+          "partOfSpeech": "adjective",
+          "translationUz": "turli xil; xilma-xil",
+          "definitionEn": "Including many different types."
+        },
+        {
+          "id": "beautiful-natural-places-048",
+          "term": "Castle",
+          "partOfSpeech": "noun",
+          "translationUz": "qal’a; qasr",
+          "definitionEn": "A large fortified building from the past."
+        }
+      ],
+      "wordCount": 48
+    },
+    {
+      "id": "japanese-kimono",
+      "title": "The Japanese Kimono",
+      "words": [
+        {
+          "id": "japanese-kimono-001",
+          "term": "Temple",
+          "partOfSpeech": "noun",
+          "translationUz": "ibodatxona",
+          "definitionEn": "A building used for religious worship."
+        },
+        {
+          "id": "japanese-kimono-002",
+          "term": "Undergarment",
+          "partOfSpeech": "noun",
+          "translationUz": "ichki kiyim",
+          "definitionEn": "Clothes worn under other clothes."
+        },
+        {
+          "id": "japanese-kimono-003",
+          "term": "Sleeve",
+          "partOfSpeech": "noun",
+          "translationUz": "yeng",
+          "definitionEn": "The part of clothing that covers the arm."
+        },
+        {
+          "id": "japanese-kimono-004",
+          "term": "Wrap around",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "atrofini o‘rab olmoq",
+          "definitionEn": "To cover something by putting material around it."
+        },
+        {
+          "id": "japanese-kimono-005",
+          "term": "Layer",
+          "partOfSpeech": "noun",
+          "translationUz": "qatlam",
+          "definitionEn": "One level or thickness of material."
+        },
+        {
+          "id": "japanese-kimono-006",
+          "term": "Pant",
+          "partOfSpeech": "noun",
+          "translationUz": "shim",
+          "definitionEn": "A piece of clothing covering the legs."
+        },
+        {
+          "id": "japanese-kimono-007",
+          "term": "Sew",
+          "partOfSpeech": "verb",
+          "translationUz": "tikmoq",
+          "definitionEn": "To join pieces of fabric using a needle and thread."
+        },
+        {
+          "id": "japanese-kimono-008",
+          "term": "Freedom",
+          "partOfSpeech": "noun",
+          "translationUz": "ozodlik; erkinlik",
+          "definitionEn": "The ability to act without control or restriction."
+        },
+        {
+          "id": "japanese-kimono-009",
+          "term": "Seamstress",
+          "partOfSpeech": "noun",
+          "translationUz": "tikuvchi ayol",
+          "definitionEn": "A woman who sews clothes."
+        },
+        {
+          "id": "japanese-kimono-010",
+          "term": "Fold",
+          "partOfSpeech": "verb",
+          "translationUz": "buklamoq",
+          "definitionEn": "To bend something over itself."
+        },
+        {
+          "id": "japanese-kimono-011",
+          "term": "Tuck",
+          "partOfSpeech": "verb",
+          "translationUz": "qistirmoq; tiqmoq",
+          "definitionEn": "To put something into a small or hidden place."
+        },
+        {
+          "id": "japanese-kimono-012",
+          "term": "Fabric",
+          "partOfSpeech": "noun",
+          "translationUz": "mato; gazlama",
+          "definitionEn": "Material used for making clothes."
+        },
+        {
+          "id": "japanese-kimono-013",
+          "term": "Suitable",
+          "partOfSpeech": "adjective",
+          "translationUz": "mos; munosib",
+          "definitionEn": "Right or appropriate for a purpose."
+        },
+        {
+          "id": "japanese-kimono-014",
+          "term": "Fancy",
+          "partOfSpeech": "verb",
+          "translationUz": "xohlamoq; yoqtirmoq",
+          "definitionEn": "To want or like something."
+        },
+        {
+          "id": "japanese-kimono-015",
+          "term": "Express",
+          "partOfSpeech": "verb",
+          "translationUz": "ifodalamoq",
+          "definitionEn": "To show thoughts or feelings."
+        },
+        {
+          "id": "japanese-kimono-016",
+          "term": "Taste",
+          "partOfSpeech": "noun",
+          "translationUz": "did; ta’b",
+          "definitionEn": "A person's preference or liking."
+        },
+        {
+          "id": "japanese-kimono-017",
+          "term": "Elegant",
+          "partOfSpeech": "adjective",
+          "translationUz": "nafis; didli",
+          "definitionEn": "Attractive and stylish."
+        },
+        {
+          "id": "japanese-kimono-018",
+          "term": "Warrior",
+          "partOfSpeech": "noun",
+          "translationUz": "jangchi",
+          "definitionEn": "A person who fights in a war."
+        },
+        {
+          "id": "japanese-kimono-019",
+          "term": "Battlefield",
+          "partOfSpeech": "noun",
+          "translationUz": "jang maydoni",
+          "definitionEn": "An area where a battle takes place."
+        },
+        {
+          "id": "japanese-kimono-020",
+          "term": "Extravagant",
+          "partOfSpeech": "adjective",
+          "translationUz": "dabdabali; hashamatli",
+          "definitionEn": "Very expensive or more than necessary."
+        },
+        {
+          "id": "japanese-kimono-021",
+          "term": "Outfit",
+          "partOfSpeech": "noun",
+          "translationUz": "kiyim-bosh; libos",
+          "definitionEn": "A set of clothes worn together."
+        },
+        {
+          "id": "japanese-kimono-022",
+          "term": "Belong to",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "...ga tegishli bo‘lmoq",
+          "definitionEn": "To be owned by or connected with someone."
+        },
+        {
+          "id": "japanese-kimono-023",
+          "term": "Valuable",
+          "partOfSpeech": "adjective",
+          "translationUz": "qimmatli",
+          "definitionEn": "Worth a lot of money or importance."
+        },
+        {
+          "id": "japanese-kimono-024",
+          "term": "Adopt",
+          "partOfSpeech": "verb",
+          "translationUz": "qabul qilmoq; o‘zlashtirmoq",
+          "definitionEn": "To accept or start using something."
+        },
+        {
+          "id": "japanese-kimono-025",
+          "term": "Silk",
+          "partOfSpeech": "noun",
+          "translationUz": "ipak",
+          "definitionEn": "A smooth, soft and expensive fabric."
+        },
+        {
+          "id": "japanese-kimono-026",
+          "term": "Belt",
+          "partOfSpeech": "noun",
+          "translationUz": "kamar",
+          "definitionEn": "A strip worn around the waist."
+        },
+        {
+          "id": "japanese-kimono-027",
+          "term": "Funeral",
+          "partOfSpeech": "noun",
+          "translationUz": "dafn marosimi",
+          "definitionEn": "A ceremony for a dead person."
+        },
+        {
+          "id": "japanese-kimono-028",
+          "term": "Consider",
+          "partOfSpeech": "verb",
+          "translationUz": "deb hisoblamoq; o‘ylab ko‘rmoq",
+          "definitionEn": "To think carefully about something."
+        },
+        {
+          "id": "japanese-kimono-029",
+          "term": "Masterpiece",
+          "partOfSpeech": "noun",
+          "translationUz": "shoh asar",
+          "definitionEn": "An excellent piece of art or work."
+        },
+        {
+          "id": "japanese-kimono-030",
+          "term": "Recognizable",
+          "partOfSpeech": "adjective",
+          "translationUz": "tanib olish mumkin bo‘lgan",
+          "definitionEn": "Easy to identify or recognize."
+        },
+        {
+          "id": "japanese-kimono-031",
+          "term": "Send off",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "kuzatib qo‘ymoq",
+          "definitionEn": "To say goodbye to someone who is leaving."
+        },
+        {
+          "id": "japanese-kimono-032",
+          "term": "Turn down",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "rad etmoq",
+          "definitionEn": "To refuse an offer or request."
+        },
+        {
+          "id": "japanese-kimono-033",
+          "term": "Heroic",
+          "partOfSpeech": "adjective",
+          "translationUz": "qahramonona",
+          "definitionEn": "Showing great courage."
+        },
+        {
+          "id": "japanese-kimono-034",
+          "term": "Keen on",
+          "partOfSpeech": "phrase",
+          "translationUz": "...ga qiziqmoq; ishqiboz bo‘lmoq",
+          "definitionEn": "Very interested in something."
+        },
+        {
+          "id": "japanese-kimono-035",
+          "term": "Take part in",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "qatnashmoq",
+          "definitionEn": "To participate in an activity."
+        },
+        {
+          "id": "japanese-kimono-036",
+          "term": "Popular with",
+          "partOfSpeech": "phrase",
+          "translationUz": "...orasida mashhur",
+          "definitionEn": "Liked by a particular group of people."
+        },
+        {
+          "id": "japanese-kimono-037",
+          "term": "Eat out",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "tashqarida ovqatlanmoq",
+          "definitionEn": "To eat at a restaurant."
+        },
+        {
+          "id": "japanese-kimono-038",
+          "term": "Opponent",
+          "partOfSpeech": "noun",
+          "translationUz": "raqib",
+          "definitionEn": "A person you compete or fight against."
+        }
+      ],
+      "wordCount": 38
+    },
+    {
+      "id": "interesting-dining-manners",
+      "title": "Interesting Dining Manners",
+      "words": [
+        {
+          "id": "interesting-dining-manners-001",
+          "term": "Gather",
+          "partOfSpeech": "verb",
+          "translationUz": "yig‘ilmoq; to‘planmoq",
+          "definitionEn": "To come together in one place."
+        },
+        {
+          "id": "interesting-dining-manners-002",
+          "term": "Dining",
+          "partOfSpeech": "noun",
+          "translationUz": "ovqatlanish",
+          "definitionEn": "The activity of eating a meal."
+        },
+        {
+          "id": "interesting-dining-manners-003",
+          "term": "Manner",
+          "partOfSpeech": "noun",
+          "translationUz": "odob; xulq-atvor",
+          "definitionEn": "The way someone behaves."
+        },
+        {
+          "id": "interesting-dining-manners-004",
+          "term": "Ritual",
+          "partOfSpeech": "noun",
+          "translationUz": "marosim; urf-odat",
+          "definitionEn": "A traditional or formal activity."
+        },
+        {
+          "id": "interesting-dining-manners-005",
+          "term": "Utensils",
+          "partOfSpeech": "noun",
+          "translationUz": "oshxona anjomlari; ovqatlanish anjomlari",
+          "definitionEn": "Tools used for cooking or eating."
+        },
+        {
+          "id": "interesting-dining-manners-006",
+          "term": "Differ",
+          "partOfSpeech": "verb",
+          "translationUz": "farq qilmoq",
+          "definitionEn": "To be different from something."
+        },
+        {
+          "id": "interesting-dining-manners-007",
+          "term": "Consider",
+          "partOfSpeech": "verb",
+          "translationUz": "deb hisoblamoq",
+          "definitionEn": "To think of something in a particular way."
+        },
+        {
+          "id": "interesting-dining-manners-008",
+          "term": "Society",
+          "partOfSpeech": "noun",
+          "translationUz": "jamiyat",
+          "definitionEn": "People living together in an organized community."
+        },
+        {
+          "id": "interesting-dining-manners-009",
+          "term": "Brief",
+          "partOfSpeech": "adjective",
+          "translationUz": "qisqa",
+          "definitionEn": "Lasting only a short time."
+        },
+        {
+          "id": "interesting-dining-manners-010",
+          "term": "Originate",
+          "partOfSpeech": "verb",
+          "translationUz": "kelib chiqmoq",
+          "definitionEn": "To begin or come from a particular place."
+        },
+        {
+          "id": "interesting-dining-manners-011",
+          "term": "Exploration",
+          "partOfSpeech": "noun",
+          "translationUz": "tadqiq qilish; o‘rganish",
+          "definitionEn": "The act of discovering or learning about something."
+        },
+        {
+          "id": "interesting-dining-manners-012",
+          "term": "Refined",
+          "partOfSpeech": "adjective",
+          "translationUz": "nafis; nozik didli",
+          "definitionEn": "Polite, elegant and well-mannered."
+        },
+        {
+          "id": "interesting-dining-manners-013",
+          "term": "Appalled",
+          "partOfSpeech": "adjective",
+          "translationUz": "dahshatga tushgan; qattiq hayratlangan",
+          "definitionEn": "Extremely shocked or upset."
+        },
+        {
+          "id": "interesting-dining-manners-014",
+          "term": "Greasy",
+          "partOfSpeech": "adjective",
+          "translationUz": "yog‘li",
+          "definitionEn": "Covered with or containing too much oil."
+        },
+        {
+          "id": "interesting-dining-manners-015",
+          "term": "Educated",
+          "partOfSpeech": "adjective",
+          "translationUz": "ma’lumotli; bilimli",
+          "definitionEn": "Having received education."
+        },
+        {
+          "id": "interesting-dining-manners-016",
+          "term": "Niece",
+          "partOfSpeech": "noun",
+          "translationUz": "jiyan (aka yoki uka qizi)",
+          "definitionEn": "The daughter of your brother or sister."
+        },
+        {
+          "id": "interesting-dining-manners-017",
+          "term": "Scholar",
+          "partOfSpeech": "noun",
+          "translationUz": "olim",
+          "definitionEn": "A person who studies a subject deeply."
+        },
+        {
+          "id": "interesting-dining-manners-018",
+          "term": "Cutlery",
+          "partOfSpeech": "noun",
+          "translationUz": "ovqatlanish anjomlari",
+          "definitionEn": "Knives, forks and spoons."
+        },
+        {
+          "id": "interesting-dining-manners-019",
+          "term": "Napkin",
+          "partOfSpeech": "noun",
+          "translationUz": "salfetka",
+          "definitionEn": "A piece of cloth or paper used during meals."
+        },
+        {
+          "id": "interesting-dining-manners-020",
+          "term": "Communal",
+          "partOfSpeech": "adjective",
+          "translationUz": "umumiy; jamoaviy",
+          "definitionEn": "Shared by a group of people."
+        },
+        {
+          "id": "interesting-dining-manners-021",
+          "term": "Tear off",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "yulib olmoq; uzib olmoq",
+          "definitionEn": "To remove something by pulling it."
+        },
+        {
+          "id": "interesting-dining-manners-022",
+          "term": "Cuisine",
+          "partOfSpeech": "noun",
+          "translationUz": "milliy taomlar; oshxona",
+          "definitionEn": "A style of cooking from a country or region."
+        },
+        {
+          "id": "interesting-dining-manners-023",
+          "term": "Offend",
+          "partOfSpeech": "verb",
+          "translationUz": "xafa qilmoq; ranjitmoq",
+          "definitionEn": "To make someone feel upset."
+        },
+        {
+          "id": "interesting-dining-manners-024",
+          "term": "Cook",
+          "partOfSpeech": "verb",
+          "translationUz": "pishirmoq",
+          "definitionEn": "To prepare food using heat."
+        },
+        {
+          "id": "interesting-dining-manners-025",
+          "term": "Appreciation",
+          "partOfSpeech": "noun",
+          "translationUz": "qadrlash; minnatdorlik",
+          "definitionEn": "Recognition of the value of something."
+        },
+        {
+          "id": "interesting-dining-manners-026",
+          "term": "Noodle",
+          "partOfSpeech": "noun",
+          "translationUz": "ugra; lag‘mon",
+          "definitionEn": "A long thin strip of pasta."
+        },
+        {
+          "id": "interesting-dining-manners-027",
+          "term": "Slurp",
+          "partOfSpeech": "verb",
+          "translationUz": "shovqin bilan ichmoq yoki yemoq",
+          "definitionEn": "To eat or drink with a loud sucking sound."
+        },
+        {
+          "id": "interesting-dining-manners-028",
+          "term": "Chew",
+          "partOfSpeech": "verb",
+          "translationUz": "chaynamoq",
+          "definitionEn": "To bite food repeatedly before swallowing."
+        },
+        {
+          "id": "interesting-dining-manners-029",
+          "term": "Acceptable",
+          "partOfSpeech": "adjective",
+          "translationUz": "maqbul; qabul qilsa bo‘ladigan",
+          "definitionEn": "Good enough or allowed."
+        },
+        {
+          "id": "interesting-dining-manners-030",
+          "term": "Nation-wide",
+          "partOfSpeech": "adjective/adverb",
+          "translationUz": "butun mamlakat bo‘ylab",
+          "definitionEn": "Happening throughout an entire country."
+        },
+        {
+          "id": "interesting-dining-manners-031",
+          "term": "Sleepy",
+          "partOfSpeech": "adjective",
+          "translationUz": "uyqusi kelgan",
+          "definitionEn": "Feeling that you need to sleep."
+        },
+        {
+          "id": "interesting-dining-manners-032",
+          "term": "Derive from",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "...dan kelib chiqmoq; ...dan olinmoq",
+          "definitionEn": "To originate from something."
+        },
+        {
+          "id": "interesting-dining-manners-033",
+          "term": "Regular",
+          "partOfSpeech": "adjective",
+          "translationUz": "muntazam",
+          "definitionEn": "Happening repeatedly or at fixed times."
+        },
+        {
+          "id": "interesting-dining-manners-034",
+          "term": "Particularly",
+          "partOfSpeech": "adverb",
+          "translationUz": "ayniqsa; xususan",
+          "definitionEn": "More than usual or especially."
+        },
+        {
+          "id": "interesting-dining-manners-035",
+          "term": "Reiterate",
+          "partOfSpeech": "verb",
+          "translationUz": "takrorlamoq",
+          "definitionEn": "To say something again for clarity."
+        },
+        {
+          "id": "interesting-dining-manners-036",
+          "term": "Elbow",
+          "partOfSpeech": "noun",
+          "translationUz": "tirsak",
+          "definitionEn": "The joint in the middle of your arm."
+        },
+        {
+          "id": "interesting-dining-manners-037",
+          "term": "Forearm",
+          "partOfSpeech": "noun",
+          "translationUz": "bilak",
+          "definitionEn": "The part of the arm between the elbow and wrist."
+        },
+        {
+          "id": "interesting-dining-manners-038",
+          "term": "Lap",
+          "partOfSpeech": "noun",
+          "translationUz": "tizza usti",
+          "definitionEn": "The upper part of your legs when sitting."
+        }
+      ],
+      "wordCount": 38
+    },
+    {
+      "id": "dogs-our-loyal-friends",
+      "title": "Dogs – Our Loyal Friends",
+      "words": [
+        {
+          "id": "dogs-our-loyal-friends-001",
+          "term": "Domesticated",
+          "partOfSpeech": "adjective",
+          "translationUz": "xonakilashtirilgan",
+          "definitionEn": "Trained to live with humans."
+        },
+        {
+          "id": "dogs-our-loyal-friends-002",
+          "term": "Breed",
+          "partOfSpeech": "noun",
+          "translationUz": "it zoti; zot",
+          "definitionEn": "A particular type of animal."
+        },
+        {
+          "id": "dogs-our-loyal-friends-003",
+          "term": "Specific",
+          "partOfSpeech": "adjective",
+          "translationUz": "muayyan; aniq",
+          "definitionEn": "Clearly identified or particular."
+        },
+        {
+          "id": "dogs-our-loyal-friends-004",
+          "term": "Physical attributes",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "jismoniy xususiyatlar",
+          "definitionEn": "The visible features of a body."
+        },
+        {
+          "id": "dogs-our-loyal-friends-005",
+          "term": "Behavior",
+          "partOfSpeech": "noun",
+          "translationUz": "xulq-atvor",
+          "definitionEn": "The way a person or animal acts."
+        },
+        {
+          "id": "dogs-our-loyal-friends-006",
+          "term": "Species",
+          "partOfSpeech": "noun",
+          "translationUz": "tur",
+          "definitionEn": "A group of similar living organisms."
+        },
+        {
+          "id": "dogs-our-loyal-friends-007",
+          "term": "Remains",
+          "partOfSpeech": "noun",
+          "translationUz": "qoldiqlar",
+          "definitionEn": "What is left after something has disappeared."
+        },
+        {
+          "id": "dogs-our-loyal-friends-008",
+          "term": "Agriculture",
+          "partOfSpeech": "noun",
+          "translationUz": "qishloq xo‘jaligi",
+          "definitionEn": "Farming and growing crops."
+        },
+        {
+          "id": "dogs-our-loyal-friends-009",
+          "term": "Nomad",
+          "partOfSpeech": "noun",
+          "translationUz": "ko‘chmanchi",
+          "definitionEn": "A person who moves from place to place."
+        },
+        {
+          "id": "dogs-our-loyal-friends-010",
+          "term": "Civilization",
+          "partOfSpeech": "noun",
+          "translationUz": "sivilizatsiya; tamaddun",
+          "definitionEn": "An advanced human society."
+        },
+        {
+          "id": "dogs-our-loyal-friends-011",
+          "term": "Particularly",
+          "partOfSpeech": "adverb",
+          "translationUz": "ayniqsa",
+          "definitionEn": "Especially or more than usual."
+        },
+        {
+          "id": "dogs-our-loyal-friends-012",
+          "term": "Royalty",
+          "partOfSpeech": "noun",
+          "translationUz": "qirollik oilasi; qirollik",
+          "definitionEn": "Kings, queens and their families."
+        },
+        {
+          "id": "dogs-our-loyal-friends-013",
+          "term": "Be fond of",
+          "partOfSpeech": "phrase",
+          "translationUz": "yaxshi ko‘rmoq",
+          "definitionEn": "To like someone or something."
+        },
+        {
+          "id": "dogs-our-loyal-friends-014",
+          "term": "Archaeological",
+          "partOfSpeech": "adjective",
+          "translationUz": "arxeologik",
+          "definitionEn": "Related to the study of ancient history."
+        },
+        {
+          "id": "dogs-our-loyal-friends-015",
+          "term": "Bond",
+          "partOfSpeech": "noun",
+          "translationUz": "bog‘liqlik; rishta",
+          "definitionEn": "A close connection between people or animals."
+        },
+        {
+          "id": "dogs-our-loyal-friends-016",
+          "term": "Release",
+          "partOfSpeech": "verb",
+          "translationUz": "ozod qilmoq; qo‘yib yubormoq",
+          "definitionEn": "To let someone or something go free."
+        },
+        {
+          "id": "dogs-our-loyal-friends-017",
+          "term": "Hormone",
+          "partOfSpeech": "noun",
+          "translationUz": "gormon",
+          "definitionEn": "A chemical in the body that controls processes."
+        },
+        {
+          "id": "dogs-our-loyal-friends-018",
+          "term": "Assist",
+          "partOfSpeech": "verb",
+          "translationUz": "yordam bermoq",
+          "definitionEn": "To help someone do something."
+        },
+        {
+          "id": "dogs-our-loyal-friends-019",
+          "term": "Originally",
+          "partOfSpeech": "adverb",
+          "translationUz": "dastlab; aslida",
+          "definitionEn": "At the beginning or in the first place."
+        },
+        {
+          "id": "dogs-our-loyal-friends-020",
+          "term": "Track",
+          "partOfSpeech": "verb",
+          "translationUz": "izidan bormoq; kuzatmoq",
+          "definitionEn": "To follow or find something by its signs."
+        },
+        {
+          "id": "dogs-our-loyal-friends-021",
+          "term": "Scent hound",
+          "partOfSpeech": "noun",
+          "translationUz": "hid orqali iz topuvchi it",
+          "definitionEn": "A dog that follows animals by smell."
+        },
+        {
+          "id": "dogs-our-loyal-friends-022",
+          "term": "Prohibited",
+          "partOfSpeech": "adjective",
+          "translationUz": "taqiqlangan",
+          "definitionEn": "Not allowed by rules or law."
+        },
+        {
+          "id": "dogs-our-loyal-friends-023",
+          "term": "Import",
+          "partOfSpeech": "verb",
+          "translationUz": "import qilmoq; olib kirmoq",
+          "definitionEn": "To bring goods into a country."
+        },
+        {
+          "id": "dogs-our-loyal-friends-024",
+          "term": "Expert",
+          "partOfSpeech": "noun",
+          "translationUz": "mutaxassis",
+          "definitionEn": "A person with great knowledge of a subject."
+        },
+        {
+          "id": "dogs-our-loyal-friends-025",
+          "term": "House-train",
+          "partOfSpeech": "verb",
+          "translationUz": "uyda hojatga o‘rgatmoq",
+          "definitionEn": "To teach a pet where to go to the toilet."
+        },
+        {
+          "id": "dogs-our-loyal-friends-026",
+          "term": "Get bored",
+          "partOfSpeech": "phrase",
+          "translationUz": "zerikmoq",
+          "definitionEn": "To become uninterested."
+        },
+        {
+          "id": "dogs-our-loyal-friends-027",
+          "term": "Howl",
+          "partOfSpeech": "verb",
+          "translationUz": "uvullamoq",
+          "definitionEn": "To make a long, loud sound like a wolf."
+        },
+        {
+          "id": "dogs-our-loyal-friends-028",
+          "term": "Dig around",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "atrofini qazimoq",
+          "definitionEn": "To make holes in the ground."
+        },
+        {
+          "id": "dogs-our-loyal-friends-029",
+          "term": "Stubborn",
+          "partOfSpeech": "adjective",
+          "translationUz": "qaysar; o‘jar",
+          "definitionEn": "Refusing to change your mind."
+        },
+        {
+          "id": "dogs-our-loyal-friends-030",
+          "term": "Floppy ears",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "osilib turadigan quloqlar",
+          "definitionEn": "Ears that hang down loosely."
+        },
+        {
+          "id": "dogs-our-loyal-friends-031",
+          "term": "Sled",
+          "partOfSpeech": "noun",
+          "translationUz": "chana",
+          "definitionEn": "A vehicle used for travelling over snow."
+        },
+        {
+          "id": "dogs-our-loyal-friends-032",
+          "term": "Ease",
+          "partOfSpeech": "noun/verb",
+          "translationUz": "yengillik; yengillashtirmoq",
+          "definitionEn": "Comfort or a reduction in difficulty."
+        },
+        {
+          "id": "dogs-our-loyal-friends-033",
+          "term": "Curious",
+          "partOfSpeech": "adjective",
+          "translationUz": "qiziquvchan",
+          "definitionEn": "Wanting to know or learn something."
+        },
+        {
+          "id": "dogs-our-loyal-friends-034",
+          "term": "Hiking trip",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "piyoda sayr; tog‘ sayohati",
+          "definitionEn": "A long walk in nature or mountains."
+        },
+        {
+          "id": "dogs-our-loyal-friends-035",
+          "term": "Constantly",
+          "partOfSpeech": "adverb",
+          "translationUz": "doimiy ravishda",
+          "definitionEn": "All the time or very frequently."
+        },
+        {
+          "id": "dogs-our-loyal-friends-036",
+          "term": "Courage",
+          "partOfSpeech": "noun",
+          "translationUz": "jasorat",
+          "definitionEn": "The ability to face danger without fear."
+        },
+        {
+          "id": "dogs-our-loyal-friends-037",
+          "term": "Notify",
+          "partOfSpeech": "verb",
+          "translationUz": "xabardor qilmoq",
+          "definitionEn": "To officially tell someone something."
+        },
+        {
+          "id": "dogs-our-loyal-friends-038",
+          "term": "Abandoned",
+          "partOfSpeech": "adjective",
+          "translationUz": "tashlab ketilgan",
+          "definitionEn": "Left behind by someone."
+        },
+        {
+          "id": "dogs-our-loyal-friends-039",
+          "term": "Flexible spine",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "egiluvchan umurtqa pog‘onasi",
+          "definitionEn": "A backbone that can bend easily."
+        },
+        {
+          "id": "dogs-our-loyal-friends-040",
+          "term": "Obedience",
+          "partOfSpeech": "noun",
+          "translationUz": "itoatkorlik",
+          "definitionEn": "The act of following orders or rules."
+        }
+      ],
+      "wordCount": 40
+    },
+    {
+      "id": "world-natural-wonders",
+      "title": "The World's Most Beautiful Natural Wonders",
+      "words": [
+        {
+          "id": "world-natural-wonders-001",
+          "term": "Throughout",
+          "partOfSpeech": "preposition/adverb",
+          "translationUz": "butun davomida; bo‘ylab",
+          "definitionEn": "In every part of something or during all of it."
+        },
+        {
+          "id": "world-natural-wonders-002",
+          "term": "Due to",
+          "partOfSpeech": "phrase",
+          "translationUz": "sababli; tufayli",
+          "definitionEn": "Because of something."
+        },
+        {
+          "id": "world-natural-wonders-003",
+          "term": "Incredible",
+          "partOfSpeech": "adjective",
+          "translationUz": "aql bovar qilmaydigan",
+          "definitionEn": "Extremely surprising or difficult to believe."
+        },
+        {
+          "id": "world-natural-wonders-004",
+          "term": "Creation",
+          "partOfSpeech": "noun",
+          "translationUz": "yaratilish; yaratilgan narsa",
+          "definitionEn": "Something that has been made."
+        },
+        {
+          "id": "world-natural-wonders-005",
+          "term": "Inhabit",
+          "partOfSpeech": "verb",
+          "translationUz": "yashamoq",
+          "definitionEn": "To live in a particular place."
+        },
+        {
+          "id": "world-natural-wonders-006",
+          "term": "Wonder",
+          "partOfSpeech": "noun",
+          "translationUz": "mo‘jiza",
+          "definitionEn": "Something amazing or extraordinary."
+        },
+        {
+          "id": "world-natural-wonders-007",
+          "term": "Admiration",
+          "partOfSpeech": "noun",
+          "translationUz": "hayrat; qoyil qolish",
+          "definitionEn": "A feeling of respect or approval."
+        },
+        {
+          "id": "world-natural-wonders-008",
+          "term": "Suddenly",
+          "partOfSpeech": "adverb",
+          "translationUz": "to‘satdan",
+          "definitionEn": "Happening quickly and unexpectedly."
+        },
+        {
+          "id": "world-natural-wonders-009",
+          "term": "Occurrence",
+          "partOfSpeech": "noun",
+          "translationUz": "voqea; hodisa",
+          "definitionEn": "Something that happens."
+        },
+        {
+          "id": "world-natural-wonders-010",
+          "term": "Appear",
+          "partOfSpeech": "verb",
+          "translationUz": "paydo bo‘lmoq",
+          "definitionEn": "To become visible or noticeable."
+        },
+        {
+          "id": "world-natural-wonders-011",
+          "term": "Collide",
+          "partOfSpeech": "verb",
+          "translationUz": "to‘qnashmoq",
+          "definitionEn": "To crash into something."
+        },
+        {
+          "id": "world-natural-wonders-012",
+          "term": "Penetrate",
+          "partOfSpeech": "verb",
+          "translationUz": "ichiga kirmoq; singib kirmoq",
+          "definitionEn": "To enter or pass through something."
+        },
+        {
+          "id": "world-natural-wonders-013",
+          "term": "Subrange",
+          "partOfSpeech": "noun",
+          "translationUz": "kichik tog‘ tizmasi",
+          "definitionEn": "A smaller mountain range within a larger one."
+        },
+        {
+          "id": "world-natural-wonders-014",
+          "term": "Tectonic plate",
+          "partOfSpeech": "noun",
+          "translationUz": "tektonik plita",
+          "definitionEn": "A large piece of Earth's outer layer."
+        },
+        {
+          "id": "world-natural-wonders-015",
+          "term": "Ascent",
+          "partOfSpeech": "noun",
+          "translationUz": "ko‘tarilish",
+          "definitionEn": "Movement towards a higher place."
+        },
+        {
+          "id": "world-natural-wonders-016",
+          "term": "Summit",
+          "partOfSpeech": "noun",
+          "translationUz": "cho‘qqi",
+          "definitionEn": "The highest point of a mountain."
+        },
+        {
+          "id": "world-natural-wonders-017",
+          "term": "Peak",
+          "partOfSpeech": "noun",
+          "translationUz": "tog‘ cho‘qqisi",
+          "definitionEn": "The pointed top of a mountain."
+        },
+        {
+          "id": "world-natural-wonders-018",
+          "term": "Assistance",
+          "partOfSpeech": "noun",
+          "translationUz": "yordam",
+          "definitionEn": "Help given to someone."
+        },
+        {
+          "id": "world-natural-wonders-019",
+          "term": "Drop down",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "pastga tushmoq",
+          "definitionEn": "To move or fall to a lower position."
+        },
+        {
+          "id": "world-natural-wonders-020",
+          "term": "Harsh",
+          "partOfSpeech": "adjective",
+          "translationUz": "qattiq; shafqatsiz",
+          "definitionEn": "Very difficult, unpleasant or severe."
+        },
+        {
+          "id": "world-natural-wonders-021",
+          "term": "Bottled oxygen",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "ballondagi kislorod",
+          "definitionEn": "Oxygen stored in a container."
+        },
+        {
+          "id": "world-natural-wonders-022",
+          "term": "Function",
+          "partOfSpeech": "noun/verb",
+          "translationUz": "vazifa; ishlamoq",
+          "definitionEn": "The purpose of something or how it works."
+        },
+        {
+          "id": "world-natural-wonders-023",
+          "term": "Border",
+          "partOfSpeech": "noun",
+          "translationUz": "chegara",
+          "definitionEn": "The line separating two areas or countries."
+        },
+        {
+          "id": "world-natural-wonders-024",
+          "term": "Elevation",
+          "partOfSpeech": "noun",
+          "translationUz": "balandlik",
+          "definitionEn": "The height of a place above sea level."
+        },
+        {
+          "id": "world-natural-wonders-025",
+          "term": "Rodent",
+          "partOfSpeech": "noun",
+          "translationUz": "kemiruvchi hayvon",
+          "definitionEn": "A small animal such as a mouse or rat."
+        },
+        {
+          "id": "world-natural-wonders-026",
+          "term": "Raft",
+          "partOfSpeech": "noun",
+          "translationUz": "sol",
+          "definitionEn": "A simple floating platform."
+        },
+        {
+          "id": "world-natural-wonders-027",
+          "term": "Waterfall",
+          "partOfSpeech": "noun",
+          "translationUz": "sharshara",
+          "definitionEn": "Water falling from a high place."
+        },
+        {
+          "id": "world-natural-wonders-028",
+          "term": "Honor",
+          "partOfSpeech": "noun",
+          "translationUz": "sharaf; hurmat",
+          "definitionEn": "Great respect or recognition."
+        },
+        {
+          "id": "world-natural-wonders-029",
+          "term": "Vapor",
+          "partOfSpeech": "noun",
+          "translationUz": "bug‘",
+          "definitionEn": "A gas form of a substance, such as water."
+        },
+        {
+          "id": "world-natural-wonders-030",
+          "term": "Consist of",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "...dan iborat bo‘lmoq",
+          "definitionEn": "To be made up of different parts."
+        },
+        {
+          "id": "world-natural-wonders-031",
+          "term": "Impressive",
+          "partOfSpeech": "adjective",
+          "translationUz": "hayratlanarli; ta’sirli",
+          "definitionEn": "Making people feel admiration."
+        },
+        {
+          "id": "world-natural-wonders-032",
+          "term": "Precious",
+          "partOfSpeech": "adjective",
+          "translationUz": "qimmatbaho; aziz",
+          "definitionEn": "Very valuable or important."
+        },
+        {
+          "id": "world-natural-wonders-033",
+          "term": "Abundant",
+          "partOfSpeech": "adjective",
+          "translationUz": "mo‘l-ko‘l; serob",
+          "definitionEn": "Existing in large quantities."
+        },
+        {
+          "id": "world-natural-wonders-034",
+          "term": "Holy",
+          "partOfSpeech": "adjective",
+          "translationUz": "muqaddas",
+          "definitionEn": "Connected with religion or God."
+        },
+        {
+          "id": "world-natural-wonders-035",
+          "term": "Spot",
+          "partOfSpeech": "noun",
+          "translationUz": "joy; nuqta",
+          "definitionEn": "A particular place or location."
+        },
+        {
+          "id": "world-natural-wonders-036",
+          "term": "Common to",
+          "partOfSpeech": "phrase",
+          "translationUz": "...ga xos; ...da uchraydigan",
+          "definitionEn": "Shared by or found in several things."
+        },
+        {
+          "id": "world-natural-wonders-037",
+          "term": "Observer",
+          "partOfSpeech": "noun",
+          "translationUz": "kuzatuvchi",
+          "definitionEn": "A person who watches something."
+        }
+      ],
+      "wordCount": 37
+    },
+    {
+      "id": "traditional-marriage-customs",
+      "title": "Interesting Traditional Marriage Customs Around the World",
+      "words": [
+        {
+          "id": "traditional-marriage-customs-001",
+          "term": "Union",
+          "partOfSpeech": "noun",
+          "translationUz": "birlashma; ittifoq",
+          "definitionEn": "The joining of two people or groups."
+        },
+        {
+          "id": "traditional-marriage-customs-002",
+          "term": "Spouse",
+          "partOfSpeech": "noun",
+          "translationUz": "turmush o‘rtoq",
+          "definitionEn": "A husband or wife."
+        },
+        {
+          "id": "traditional-marriage-customs-003",
+          "term": "Establish",
+          "partOfSpeech": "verb",
+          "translationUz": "tashkil qilmoq; o‘rnatmoq",
+          "definitionEn": "To create or start something officially."
+        },
+        {
+          "id": "traditional-marriage-customs-004",
+          "term": "Obligation",
+          "partOfSpeech": "noun",
+          "translationUz": "majburiyat",
+          "definitionEn": "Something you must do."
+        },
+        {
+          "id": "traditional-marriage-customs-005",
+          "term": "Matrimony",
+          "partOfSpeech": "noun",
+          "translationUz": "nikoh; turmush",
+          "definitionEn": "The state of being married."
+        },
+        {
+          "id": "traditional-marriage-customs-006",
+          "term": "Wedlock",
+          "partOfSpeech": "noun",
+          "translationUz": "nikoh",
+          "definitionEn": "The state of being married."
+        },
+        {
+          "id": "traditional-marriage-customs-007",
+          "term": "Ritual",
+          "partOfSpeech": "noun",
+          "translationUz": "marosim; urf-odat",
+          "definitionEn": "A traditional or formal ceremony."
+        },
+        {
+          "id": "traditional-marriage-customs-008",
+          "term": "Indisputable",
+          "partOfSpeech": "adjective",
+          "translationUz": "shubhasiz; inkor etib bo‘lmaydigan",
+          "definitionEn": "Impossible to disagree with or question."
+        },
+        {
+          "id": "traditional-marriage-customs-009",
+          "term": "Adopted",
+          "partOfSpeech": "adjective",
+          "translationUz": "qabul qilingan; o‘zlashtirilgan",
+          "definitionEn": "Taken and accepted as one's own."
+        },
+        {
+          "id": "traditional-marriage-customs-010",
+          "term": "Offspring",
+          "partOfSpeech": "noun",
+          "translationUz": "farzand; avlod",
+          "definitionEn": "A person's children or descendants."
+        },
+        {
+          "id": "traditional-marriage-customs-011",
+          "term": "Pass",
+          "partOfSpeech": "verb",
+          "translationUz": "o‘tmoq; vafot etmoq",
+          "definitionEn": "To move beyond something; sometimes to die."
+        },
+        {
+          "id": "traditional-marriage-customs-012",
+          "term": "Deceased",
+          "partOfSpeech": "adjective/noun",
+          "translationUz": "marhum; vafot etgan",
+          "definitionEn": "A person who has died."
+        },
+        {
+          "id": "traditional-marriage-customs-013",
+          "term": "Widow",
+          "partOfSpeech": "noun",
+          "translationUz": "beva ayol",
+          "definitionEn": "A woman whose husband has died."
+        },
+        {
+          "id": "traditional-marriage-customs-014",
+          "term": "Eternity",
+          "partOfSpeech": "noun",
+          "translationUz": "abadiyat",
+          "definitionEn": "Time that never ends."
+        },
+        {
+          "id": "traditional-marriage-customs-015",
+          "term": "Sip",
+          "partOfSpeech": "verb/noun",
+          "translationUz": "ho‘plamoq; ho‘plam",
+          "definitionEn": "To drink a small amount slowly."
+        },
+        {
+          "id": "traditional-marriage-customs-016",
+          "term": "More precisely",
+          "partOfSpeech": "phrase",
+          "translationUz": "aniqrog‘i",
+          "definitionEn": "Used to give more exact information."
+        },
+        {
+          "id": "traditional-marriage-customs-017",
+          "term": "Judge",
+          "partOfSpeech": "verb/noun",
+          "translationUz": "baholamoq; sudya",
+          "definitionEn": "To form an opinion or make a legal decision."
+        },
+        {
+          "id": "traditional-marriage-customs-018",
+          "term": "Sanction",
+          "partOfSpeech": "noun/verb",
+          "translationUz": "ruxsat; sanksiya; tasdiqlamoq",
+          "definitionEn": "Official approval or a penalty."
+        },
+        {
+          "id": "traditional-marriage-customs-019",
+          "term": "Everlasting",
+          "partOfSpeech": "adjective",
+          "translationUz": "abadiy",
+          "definitionEn": "Lasting forever."
+        },
+        {
+          "id": "traditional-marriage-customs-020",
+          "term": "Numerous",
+          "partOfSpeech": "adjective",
+          "translationUz": "ko‘p sonli",
+          "definitionEn": "Existing in large numbers."
+        },
+        {
+          "id": "traditional-marriage-customs-021",
+          "term": "Ceremony",
+          "partOfSpeech": "noun",
+          "translationUz": "marosim",
+          "definitionEn": "A formal event for a special occasion."
+        },
+        {
+          "id": "traditional-marriage-customs-022",
+          "term": "Last",
+          "partOfSpeech": "verb",
+          "translationUz": "davom etmoq",
+          "definitionEn": "To continue for a period of time."
+        },
+        {
+          "id": "traditional-marriage-customs-023",
+          "term": "Garland",
+          "partOfSpeech": "noun",
+          "translationUz": "gulchambar",
+          "definitionEn": "A decorative chain of flowers or leaves."
+        },
+        {
+          "id": "traditional-marriage-customs-024",
+          "term": "Symbolize",
+          "partOfSpeech": "verb",
+          "translationUz": "ramziy ma’noni anglatmoq",
+          "definitionEn": "To represent an idea or quality."
+        },
+        {
+          "id": "traditional-marriage-customs-025",
+          "term": "Bribe",
+          "partOfSpeech": "noun/verb",
+          "translationUz": "pora; pora bermoq",
+          "definitionEn": "Money or a gift given to influence someone dishonestly."
+        },
+        {
+          "id": "traditional-marriage-customs-026",
+          "term": "From head to toe",
+          "partOfSpeech": "phrase",
+          "translationUz": "boshdan oyoq",
+          "definitionEn": "Covering or describing the whole body."
+        },
+        {
+          "id": "traditional-marriage-customs-027",
+          "term": "Hood",
+          "partOfSpeech": "noun",
+          "translationUz": "kapushon; bosh kiyim",
+          "definitionEn": "A covering for the head."
+        },
+        {
+          "id": "traditional-marriage-customs-028",
+          "term": "Declare",
+          "partOfSpeech": "verb",
+          "translationUz": "e’lon qilmoq; bildirmoq",
+          "definitionEn": "To announce something officially."
+        },
+        {
+          "id": "traditional-marriage-customs-029",
+          "term": "Maiden",
+          "partOfSpeech": "noun",
+          "translationUz": "turmushga chiqmagan qiz",
+          "definitionEn": "A young unmarried woman."
+        },
+        {
+          "id": "traditional-marriage-customs-030",
+          "term": "Obedient",
+          "partOfSpeech": "adjective",
+          "translationUz": "itoatkor; bo‘ysunuvchan",
+          "definitionEn": "Willing to follow orders or rules."
+        },
+        {
+          "id": "traditional-marriage-customs-031",
+          "term": "Bond",
+          "partOfSpeech": "noun",
+          "translationUz": "rishta; bog‘liqlik",
+          "definitionEn": "A strong connection between people."
+        },
+        {
+          "id": "traditional-marriage-customs-032",
+          "term": "Criticize",
+          "partOfSpeech": "verb",
+          "translationUz": "tanqid qilmoq",
+          "definitionEn": "To express disapproval of something."
+        },
+        {
+          "id": "traditional-marriage-customs-033",
+          "term": "Rum",
+          "partOfSpeech": "noun",
+          "translationUz": "rom",
+          "definitionEn": "An alcoholic drink made from sugarcane."
+        },
+        {
+          "id": "traditional-marriage-customs-034",
+          "term": "Colonial times",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "mustamlakachilik davri",
+          "definitionEn": "The period when countries were controlled by foreign powers."
+        }
+      ],
+      "wordCount": 34
+    }
+  ],
+  "totalWords": 235
+}

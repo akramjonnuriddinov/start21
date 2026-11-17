@@ -39,7 +39,7 @@ type User struct {
 var (
 	usernameRe = regexp.MustCompile(`^[a-z0-9]{3,20}$`)
 	pinRe      = regexp.MustCompile(`^[0-9]{4}$`)
-	lessonRe   = regexp.MustCompile(`^lesson-[0-9]{2}$`)
+	lessonRe   = regexp.MustCompile(`^(lesson-[0-9]{2}|words)$`)
 )
 
 func (a *App) routes(mux *http.ServeMux) {

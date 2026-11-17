@@ -2,6 +2,7 @@ import { computed, ref, watch } from 'vue'
 import { useDebounceFn } from '@vueuse/core'
 import { LESSONS, TYPE_META, type Lesson } from '../data/lessons'
 import { api } from '../api'
+import { setWordsState } from './useWords'
 
 export interface Attempt {
   date: number
@@ -45,7 +46,10 @@ const synced = new Map<string, string>()
 let syncing = false
 
 export function hydrate(state: ServerState) {
-  store.value = state.progress ?? {}
+  // the vocab state is saved under the id "words" and handled by useWords
+  const { words, ...lessons } = (state.progress ?? {}) as Record<string, unknown>
+  setWordsState(words)
+  store.value = lessons as Record<string, LessonProgress>
   xpByDay.value = state.xp ?? {}
   synced.clear()
   for (const [id, p] of Object.entries(store.value)) synced.set(id, JSON.stringify(p))
@@ -54,6 +58,7 @@ export function hydrate(state: ServerState) {
 
 export function clearLocal() {
   syncing = false
+  setWordsState(undefined, false)
   store.value = {}
   xpByDay.value = {}
   synced.clear()
@@ -91,7 +96,7 @@ if (typeof window !== 'undefined') {
   setInterval(() => syncError.value && flush(), 15000)
 }
 
-function today() {
+export function today() {
   const d = new Date()
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`
 }
