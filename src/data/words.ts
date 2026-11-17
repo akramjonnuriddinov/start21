@@ -1,4 +1,4 @@
-import { Dog, Earth, HeartHandshake, Mountain, Shirt, UtensilsCrossed } from '@lucide/vue'
+import { Bitcoin, Dog, Earth, HeartHandshake, Mountain, Shirt, Sun, UtensilsCrossed } from '@lucide/vue'
 import raw from './words.json'
 
 export interface Word {
@@ -88,6 +88,26 @@ const STYLE: Record<string, ThemeStyle & { short: string }> = {
     border: 'border-fox',
     bar: 'bg-fox',
     btn: 'btn-cherry',
+  },
+  'summer-solstice': {
+    short: 'Summer solstice',
+    icon: Sun,
+    text: 'text-rose-dark',
+    bg: 'bg-rose',
+    tint: 'bg-rose-tint',
+    border: 'border-rose',
+    bar: 'bg-rose',
+    btn: 'btn-cherry',
+  },
+  bitcoin: {
+    short: 'Bitcoin',
+    icon: Bitcoin,
+    text: 'text-teal-dark',
+    bg: 'bg-teal',
+    tint: 'bg-teal-tint',
+    border: 'border-teal',
+    bar: 'bg-teal',
+    btn: 'btn-leaf',
   },
 }
 

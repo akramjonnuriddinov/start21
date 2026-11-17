@@ -4,7 +4,7 @@
   "sourceLanguage": "en",
   "targetLanguage": "uz",
   "translationLocale": "uz-Latn",
-  "description": "Vocabulary collected from six English-learning themes, with Uzbek translations and short English definitions.",
+  "description": "Vocabulary collected from eight English-learning themes, with Uzbek translations and short English definitions.",
   "themes": [
     {
       "id": "beautiful-natural-places",
@@ -1692,7 +1692,504 @@
         }
       ],
       "wordCount": 34
+    },
+    {
+      "id": "summer-solstice",
+      "title": "Summer Solstice",
+      "wordCount": 40,
+      "words": [
+        {
+          "id": "summer-solstice-001",
+          "term": "Summer solstice",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "yozgi quyosh turishi (eng uzun kun)",
+          "definitionEn": "The day of the year with the most hours of daylight."
+        },
+        {
+          "id": "summer-solstice-002",
+          "term": "Hemisphere",
+          "partOfSpeech": "noun",
+          "translationUz": "yarimshar",
+          "definitionEn": "One half of the Earth, divided by the equator."
+        },
+        {
+          "id": "summer-solstice-003",
+          "term": "Farthest",
+          "partOfSpeech": "adjective/adverb",
+          "translationUz": "eng uzoq",
+          "definitionEn": "At the greatest distance."
+        },
+        {
+          "id": "summer-solstice-004",
+          "term": "Position",
+          "partOfSpeech": "noun",
+          "translationUz": "joylashuv; holat",
+          "definitionEn": "The place where something is."
+        },
+        {
+          "id": "summer-solstice-005",
+          "term": "Daylight",
+          "partOfSpeech": "noun",
+          "translationUz": "kunduzgi yorug‘lik",
+          "definitionEn": "The natural light of the day."
+        },
+        {
+          "id": "summer-solstice-006",
+          "term": "Winter solstice",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "qishki quyosh turishi (eng qisqa kun)",
+          "definitionEn": "The day of the year with the fewest hours of daylight."
+        },
+        {
+          "id": "summer-solstice-007",
+          "term": "Midsummer",
+          "partOfSpeech": "noun",
+          "translationUz": "yoz o‘rtasi",
+          "definitionEn": "The middle of summer, around the summer solstice."
+        },
+        {
+          "id": "summer-solstice-008",
+          "term": "Bonfire",
+          "partOfSpeech": "noun",
+          "translationUz": "gulxan",
+          "definitionEn": "A large fire built outdoors."
+        },
+        {
+          "id": "summer-solstice-009",
+          "term": "Evil spirits",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "yovuz ruhlar",
+          "definitionEn": "Bad supernatural beings that cause harm."
+        },
+        {
+          "id": "summer-solstice-010",
+          "term": "Roam freely",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "erkin kezib yurmoq",
+          "definitionEn": "To move around without limits."
+        },
+        {
+          "id": "summer-solstice-011",
+          "term": "Martyr",
+          "partOfSpeech": "noun",
+          "translationUz": "shahid",
+          "definitionEn": "A person killed because of their beliefs."
+        },
+        {
+          "id": "summer-solstice-012",
+          "term": "Religious beliefs",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "diniy e’tiqodlar",
+          "definitionEn": "Ideas a person holds about God or religion."
+        },
+        {
+          "id": "summer-solstice-013",
+          "term": "Native people",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "tub (mahalliy) aholi",
+          "definitionEn": "The first people who lived in a place."
+        },
+        {
+          "id": "summer-solstice-014",
+          "term": "Align",
+          "partOfSpeech": "verb",
+          "translationUz": "bir chiziqqa keltirmoq; to‘g‘rilamoq",
+          "definitionEn": "To place things in a straight line or the right position."
+        },
+        {
+          "id": "summer-solstice-015",
+          "term": "Structure",
+          "partOfSpeech": "noun",
+          "translationUz": "inshoot; tuzilma",
+          "definitionEn": "Something that has been built."
+        },
+        {
+          "id": "summer-solstice-016",
+          "term": "Shadow",
+          "partOfSpeech": "noun",
+          "translationUz": "soya",
+          "definitionEn": "A dark shape made when something blocks light."
+        },
+        {
+          "id": "summer-solstice-017",
+          "term": "Tribe",
+          "partOfSpeech": "noun",
+          "translationUz": "qabila",
+          "definitionEn": "A group of families sharing the same culture and leader."
+        },
+        {
+          "id": "summer-solstice-018",
+          "term": "Culturally significant",
+          "partOfSpeech": "adjective phrase",
+          "translationUz": "madaniy jihatdan muhim",
+          "definitionEn": "Important to the traditions of a group of people."
+        },
+        {
+          "id": "summer-solstice-019",
+          "term": "Devoted to",
+          "partOfSpeech": "adjective phrase",
+          "translationUz": "…ga bag‘ishlangan",
+          "definitionEn": "Given completely to a person, purpose or god."
+        },
+        {
+          "id": "summer-solstice-020",
+          "term": "Nocturnal",
+          "partOfSpeech": "adjective",
+          "translationUz": "tungi; tunda faol",
+          "definitionEn": "Active or happening at night."
+        },
+        {
+          "id": "summer-solstice-021",
+          "term": "Thunder",
+          "partOfSpeech": "noun",
+          "translationUz": "momaqaldiroq",
+          "definitionEn": "The loud noise that follows lightning."
+        },
+        {
+          "id": "summer-solstice-022",
+          "term": "Dedicate",
+          "partOfSpeech": "verb",
+          "translationUz": "bag‘ishlamoq",
+          "definitionEn": "To give something in honour of a person or god."
+        },
+        {
+          "id": "summer-solstice-023",
+          "term": "Wheel-shaped",
+          "partOfSpeech": "adjective",
+          "translationUz": "g‘ildirak shaklidagi",
+          "definitionEn": "Round like a wheel."
+        },
+        {
+          "id": "summer-solstice-024",
+          "term": "Sacrifice",
+          "partOfSpeech": "noun/verb",
+          "translationUz": "qurbonlik; qurbon qilmoq",
+          "definitionEn": "Something given up or killed as an offering."
+        },
+        {
+          "id": "summer-solstice-025",
+          "term": "Struck by lightning",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "chaqmoq urgan",
+          "definitionEn": "Hit by an electric flash from the sky."
+        },
+        {
+          "id": "summer-solstice-026",
+          "term": "Festival",
+          "partOfSpeech": "noun",
+          "translationUz": "bayram; festival",
+          "definitionEn": "A special day or period of celebration."
+        },
+        {
+          "id": "summer-solstice-027",
+          "term": "Drought",
+          "partOfSpeech": "noun",
+          "translationUz": "qurg‘oqchilik",
+          "definitionEn": "A long period without rain."
+        },
+        {
+          "id": "summer-solstice-028",
+          "term": "Associated with",
+          "partOfSpeech": "adjective phrase",
+          "translationUz": "…bilan bog‘liq",
+          "definitionEn": "Connected in people's minds with something."
+        },
+        {
+          "id": "summer-solstice-029",
+          "term": "Splash water",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "suv sachratmoq",
+          "definitionEn": "To throw drops of water on someone or something."
+        },
+        {
+          "id": "summer-solstice-030",
+          "term": "Rainbow-coloured",
+          "partOfSpeech": "adjective",
+          "translationUz": "kamalak rangli",
+          "definitionEn": "Having all the colours of a rainbow."
+        },
+        {
+          "id": "summer-solstice-031",
+          "term": "Band",
+          "partOfSpeech": "noun",
+          "translationUz": "guruh (musiqa); tasma",
+          "definitionEn": "A group of musicians, or a thin strip of material."
+        },
+        {
+          "id": "summer-solstice-032",
+          "term": "Stream",
+          "partOfSpeech": "noun",
+          "translationUz": "soy; jilg‘a",
+          "definitionEn": "A small, narrow river."
+        },
+        {
+          "id": "summer-solstice-033",
+          "term": "Flavoured",
+          "partOfSpeech": "adjective",
+          "translationUz": "ta’m berilgan",
+          "definitionEn": "Having a particular added taste."
+        },
+        {
+          "id": "summer-solstice-034",
+          "term": "Traditionally",
+          "partOfSpeech": "adverb",
+          "translationUz": "an’anaga ko‘ra",
+          "definitionEn": "According to old customs."
+        },
+        {
+          "id": "summer-solstice-035",
+          "term": "Fertility",
+          "partOfSpeech": "noun",
+          "translationUz": "hosildorlik; serpushtlik",
+          "definitionEn": "The ability to produce children, young or crops."
+        },
+        {
+          "id": "summer-solstice-036",
+          "term": "Equivalent",
+          "partOfSpeech": "noun/adjective",
+          "translationUz": "teng; muqobil",
+          "definitionEn": "Equal in value, meaning or purpose."
+        },
+        {
+          "id": "summer-solstice-037",
+          "term": "Pickled fish",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "tuzlangan baliq",
+          "definitionEn": "Fish kept in salt water or vinegar."
+        },
+        {
+          "id": "summer-solstice-038",
+          "term": "Agricultural",
+          "partOfSpeech": "adjective",
+          "translationUz": "qishloq xo‘jaligiga oid",
+          "definitionEn": "Related to farming."
+        },
+        {
+          "id": "summer-solstice-039",
+          "term": "Folk dancing",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "xalq raqslari",
+          "definitionEn": "Traditional dances of a country's people."
+        },
+        {
+          "id": "summer-solstice-040",
+          "term": "Celebrate",
+          "partOfSpeech": "verb",
+          "translationUz": "nishonlamoq",
+          "definitionEn": "To do something enjoyable for a special occasion."
+        }
+      ]
+    },
+    {
+      "id": "bitcoin",
+      "title": "Bitcoin",
+      "wordCount": 29,
+      "words": [
+        {
+          "id": "bitcoin-001",
+          "term": "Alternative",
+          "partOfSpeech": "noun/adjective",
+          "translationUz": "muqobil",
+          "definitionEn": "Another possible choice."
+        },
+        {
+          "id": "bitcoin-002",
+          "term": "Digital money",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "raqamli pul",
+          "definitionEn": "Money that exists only in electronic form."
+        },
+        {
+          "id": "bitcoin-003",
+          "term": "Mainstream",
+          "partOfSpeech": "adjective/noun",
+          "translationUz": "asosiy oqim; ommabop",
+          "definitionEn": "Accepted by or familiar to most people."
+        },
+        {
+          "id": "bitcoin-004",
+          "term": "Basically",
+          "partOfSpeech": "adverb",
+          "translationUz": "asosan; mohiyatan",
+          "definitionEn": "In the most important ways; simply."
+        },
+        {
+          "id": "bitcoin-005",
+          "term": "Stocks",
+          "partOfSpeech": "noun",
+          "translationUz": "aksiyalar",
+          "definitionEn": "Shares of ownership in a company."
+        },
+        {
+          "id": "bitcoin-006",
+          "term": "Entirely",
+          "partOfSpeech": "adverb",
+          "translationUz": "butunlay",
+          "definitionEn": "Completely."
+        },
+        {
+          "id": "bitcoin-007",
+          "term": "Available",
+          "partOfSpeech": "adjective",
+          "translationUz": "mavjud; foydalanish mumkin",
+          "definitionEn": "Able to be used or obtained."
+        },
+        {
+          "id": "bitcoin-008",
+          "term": "Peer-to-peer cash system",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "to‘g‘ridan-to‘g‘ri (foydalanuvchilararo) pul tizimi",
+          "definitionEn": "A way to send money directly between people, without a bank."
+        },
+        {
+          "id": "bitcoin-009",
+          "term": "Release",
+          "partOfSpeech": "verb/noun",
+          "translationUz": "chiqarmoq; e’lon qilmoq",
+          "definitionEn": "To make something available to the public."
+        },
+        {
+          "id": "bitcoin-010",
+          "term": "Hit a record high",
+          "partOfSpeech": "verb phrase",
+          "translationUz": "rekord darajaga yetmoq",
+          "definitionEn": "To reach the highest level ever."
+        },
+        {
+          "id": "bitcoin-011",
+          "term": "A response to",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "…ga javob",
+          "definitionEn": "Something done as a reaction to something else."
+        },
+        {
+          "id": "bitcoin-012",
+          "term": "Corrupt",
+          "partOfSpeech": "adjective",
+          "translationUz": "poraxo‘r; korrupsiyalashgan",
+          "definitionEn": "Using power dishonestly for personal gain."
+        },
+        {
+          "id": "bitcoin-013",
+          "term": "Accountable",
+          "partOfSpeech": "adjective",
+          "translationUz": "javobgar; hisobdor",
+          "definitionEn": "Responsible for your actions and expected to explain them."
+        },
+        {
+          "id": "bitcoin-014",
+          "term": "Constantly",
+          "partOfSpeech": "adverb",
+          "translationUz": "doimo; muntazam",
+          "definitionEn": "All the time; again and again."
+        },
+        {
+          "id": "bitcoin-015",
+          "term": "Charge",
+          "partOfSpeech": "noun/verb",
+          "translationUz": "to‘lov; haq olmoq",
+          "definitionEn": "The money asked for a service."
+        },
+        {
+          "id": "bitcoin-016",
+          "term": "Enormous",
+          "partOfSpeech": "adjective",
+          "translationUz": "ulkan; juda katta",
+          "definitionEn": "Extremely large."
+        },
+        {
+          "id": "bitcoin-017",
+          "term": "Eliminate",
+          "partOfSpeech": "verb",
+          "translationUz": "yo‘q qilmoq; bartaraf etmoq",
+          "definitionEn": "To remove something completely."
+        },
+        {
+          "id": "bitcoin-018",
+          "term": "Middleman",
+          "partOfSpeech": "noun",
+          "translationUz": "vositachi",
+          "definitionEn": "A person or company between a buyer and a seller."
+        },
+        {
+          "id": "bitcoin-019",
+          "term": "Decentralize",
+          "partOfSpeech": "verb",
+          "translationUz": "markazsizlashtirmoq",
+          "definitionEn": "To move control away from one central authority."
+        },
+        {
+          "id": "bitcoin-020",
+          "term": "Associated with",
+          "partOfSpeech": "adjective phrase",
+          "translationUz": "…bilan bog‘liq",
+          "definitionEn": "Connected with something."
+        },
+        {
+          "id": "bitcoin-021",
+          "term": "Validation",
+          "partOfSpeech": "noun",
+          "translationUz": "tasdiqlash; tekshirish",
+          "definitionEn": "Checking that something is correct or real."
+        },
+        {
+          "id": "bitcoin-022",
+          "term": "Ahead of",
+          "partOfSpeech": "preposition",
+          "translationUz": "…dan oldin; …dan oldinda",
+          "definitionEn": "Before; in front of."
+        },
+        {
+          "id": "bitcoin-023",
+          "term": "Permeate",
+          "partOfSpeech": "verb",
+          "translationUz": "singib ketmoq; keng tarqalmoq",
+          "definitionEn": "To spread through every part of something."
+        },
+        {
+          "id": "bitcoin-024",
+          "term": "Households",
+          "partOfSpeech": "noun",
+          "translationUz": "xonadonlar; uy xo‘jaliklari",
+          "definitionEn": "Groups of people living together in one home."
+        },
+        {
+          "id": "bitcoin-025",
+          "term": "Channel",
+          "partOfSpeech": "noun",
+          "translationUz": "kanal; yo‘l",
+          "definitionEn": "A way of sending or communicating something."
+        },
+        {
+          "id": "bitcoin-026",
+          "term": "Translate",
+          "partOfSpeech": "verb",
+          "translationUz": "tarjima qilmoq; (natijaga) aylanmoq",
+          "definitionEn": "To change words into another language; to result in."
+        },
+        {
+          "id": "bitcoin-027",
+          "term": "Third-party website",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "uchinchi tomon sayti",
+          "definitionEn": "A website run by a different company."
+        },
+        {
+          "id": "bitcoin-028",
+          "term": "Postal industry",
+          "partOfSpeech": "noun phrase",
+          "translationUz": "pochta sohasi",
+          "definitionEn": "The business of delivering letters and parcels."
+        },
+        {
+          "id": "bitcoin-029",
+          "term": "Thanks to",
+          "partOfSpeech": "phrase",
+          "translationUz": "…tufayli",
+          "definitionEn": "Because of."
+        }
+      ]
     }
   ],
-  "totalWords": 235
+  "totalWords": 304
 }

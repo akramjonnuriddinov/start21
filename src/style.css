@@ -19,6 +19,8 @@
   --wave-tint: #e2e9ff;
   --cherry-tint: #ffe1e4;
   --plum-tint: #ece4ff;
+  --rose-tint: #ffe0ee;
+  --teal-tint: #d3f5f0;
   --sun-tint: #fff0d3;
   --node-off: #e3e6ef;
   --node-off-edge: #c2c8d6;
@@ -37,6 +39,8 @@
   --wave-tint: #1a2550;
   --cherry-tint: #3d1a22;
   --plum-tint: #2a1f4d;
+  --rose-tint: #3d1830;
+  --teal-tint: #0f3330;
   --sun-tint: #3a2e10;
   --node-off: #2b3044;
   --node-off-edge: #1c2030;
@@ -69,6 +73,12 @@
   --color-plum: #9b6bff;
   --color-plum-dark: #7a4ee0;
   --color-plum-tint: var(--plum-tint);
+  --color-rose: #f0508c;
+  --color-rose-dark: #d0336f;
+  --color-rose-tint: var(--rose-tint);
+  --color-teal: #14b8a6;
+  --color-teal-dark: #0e9486;
+  --color-teal-tint: var(--teal-tint);
 
   --font-sans: 'Nunito', ui-rounded, system-ui, sans-serif;
 }
