@@ -3,13 +3,14 @@ import { computed, ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { ArrowLeft, Layers, Zap } from '@lucide/vue'
 import WordRow from '../components/WordRow.vue'
-import { findTheme } from '../data/words'
+import { basePath, findTheme } from '../data/words'
 import { useWords, wordStatus, type WordStatus } from '../composables/useWords'
 
 const props = defineProps<{ theme: string }>()
 const router = useRouter()
 const t = findTheme(props.theme)
 if (!t) router.replace('/words')
+const base = t ? basePath(t) : '/words'
 
 const { themeKnown } = useWords()
 
@@ -27,8 +28,8 @@ const list = computed(() => (t ? t.words.filter((w) => filter.value === 'all' ||
 
 <template>
   <main v-if="t" class="mx-auto max-w-3xl px-4 pt-6 pb-16">
-    <RouterLink to="/words" class="inline-flex items-center gap-1.5 text-sm text-mute-2 uppercase hover:text-ink">
-      <ArrowLeft :size="18" /> All topics
+    <RouterLink :to="base" class="inline-flex items-center gap-1.5 text-sm text-mute-2 uppercase hover:text-ink">
+      <ArrowLeft :size="18" /> {{ t.lesson ? 'All lessons' : 'All topics' }}
     </RouterLink>
 
     <!-- Banner -->
@@ -46,8 +47,8 @@ const list = computed(() => (t ? t.words.filter((w) => filter.value === 'all' ||
 
     <!-- Practice -->
     <div class="mt-4 grid grid-cols-2 gap-3">
-      <RouterLink :to="`/words/${t.id}/cards`" class="btn-wave"><Layers :size="20" /> Flashcards</RouterLink>
-      <RouterLink :to="`/words/${t.id}/quiz`" class="btn-leaf"><Zap :size="20" /> Quiz</RouterLink>
+      <RouterLink :to="`${base}/${t.id}/cards`" class="btn-wave"><Layers :size="20" /> Flashcards</RouterLink>
+      <RouterLink :to="`${base}/${t.id}/quiz`" class="btn-leaf"><Zap :size="20" /> Quiz</RouterLink>
     </div>
 
     <!-- Filter -->

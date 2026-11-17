@@ -4,14 +4,14 @@ import { useRouter } from 'vue-router'
 import { useEventListener } from '@vueuse/core'
 import { Check, RotateCcw, Volume2, X } from '@lucide/vue'
 import Mascot from '../components/Mascot.vue'
-import { findTheme, posShort, shuffle, speak, type Word } from '../data/words'
+import { basePath, findTheme, posShort, shuffle, speak, type Word } from '../data/words'
 import { recordQuiz, setStatus, wordStatus } from '../composables/useWords'
 
 const props = defineProps<{ theme: string; mode: string }>()
 const router = useRouter()
 const t = findTheme(props.theme)
 if (!t || (props.mode !== 'cards' && props.mode !== 'quiz')) router.replace('/words')
-const back = `/words/${props.theme}`
+const back = `${t ? basePath(t) : '/words'}/${props.theme}`
 
 /* ---------------- flashcards ---------------- */
 

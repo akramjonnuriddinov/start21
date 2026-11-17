@@ -189,3 +189,6 @@ export function shuffle<T>(a: T[]): T[] {
   }
   return r
 }
+
+/** Topic words live under /words, Level 4 lessons under /definitions. */
+export const basePath = (t: Pick<Theme, 'group'>) => (t.group === 'level4' ? '/definitions' : '/words')
