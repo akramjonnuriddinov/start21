@@ -7,6 +7,9 @@ quizzes), XP, streaks and a group league.
 The word bank comes from `src/data/words.json` (topics) and `src/data/definitions.json`
 (Level 4 book: 12 daily words per lesson). Edit those files to change the words.
 
+Listening scripts (Level 4 book) live in `src/data/scripts.json`, keyed by lesson
+number. A lesson shows a collapsible "Listening script" panel when it has one.
+
 - **Frontend:** Vue 3 + Tailwind v4 (`src/`)
 - **Backend:** Go + PostgreSQL (`cmd/server/`)
 

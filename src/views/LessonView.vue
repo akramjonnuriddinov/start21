@@ -2,13 +2,14 @@
 import { computed, ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { useEventListener } from '@vueuse/core'
-import { Bookmark, Check, Headphones, KeyRound, NotebookPen, Target, Timer, Trash, X, Zap } from '@lucide/vue'
+import { Bookmark, Check, ChevronDown, Headphones, KeyRound, NotebookPen, ScrollText, Target, Timer, Trash, X, Zap } from '@lucide/vue'
 import AudioPlayer from '../components/AudioPlayer.vue'
 import AnswerSheet from '../components/AnswerSheet.vue'
 import Mascot from '../components/Mascot.vue'
 import TypeBadge from '../components/TypeBadge.vue'
 import { LESSONS, TYPE_META, findLesson, formatTime } from '../data/lessons'
 import { addXp, getProgress, resetLesson, touch, xpFor } from '../composables/useProgress'
+import scripts from '../data/scripts.json'
 
 const props = defineProps<{ id: string }>()
 const router = useRouter()
@@ -17,6 +18,11 @@ const lesson = findLesson(props.id)
 if (!lesson) router.replace('/')
 if (lesson) getProgress(lesson)
 const progress = computed(() => (lesson ? getProgress(lesson) : null))
+
+// Listening script (Level 4 book), hidden until the learner asks for it.
+type ScriptLine = { speaker?: string; text: string }
+const script = lesson ? (scripts as Record<string, ScriptLine[]>)[String(lesson.number)] : undefined
+const showScript = ref(false)
 
 const idx = LESSONS.findIndex((l) => l.id === props.id)
 const next = LESSONS[idx + 1]
@@ -207,6 +213,32 @@ useEventListener(window, 'keydown', (e: KeyboardEvent) => {
       <!-- Questions -->
       <div class="mt-8">
         <AnswerSheet :lesson="lesson" :progress="progress" :mode="mode" />
+      </div>
+
+      <!-- Listening script -->
+      <div v-if="script" class="panel mt-8 p-4 sm:p-6">
+        <button
+          class="flex w-full items-center justify-between gap-3 text-left"
+          :aria-expanded="showScript"
+          @click="showScript = !showScript"
+        >
+          <span class="flex items-center gap-2 font-extrabold text-ink-strong">
+            <ScrollText :size="20" class="text-plum" /> Listening script
+          </span>
+          <span class="flex items-center gap-1 text-sm font-bold text-mute-2">
+            {{ showScript ? 'Hide' : 'Show' }}
+            <ChevronDown :size="18" class="transition-transform" :class="showScript && 'rotate-180'" />
+          </span>
+        </button>
+        <p v-if="!showScript" class="mt-2 text-sm text-mute-2">
+          Listen and write it down word by word first, then open the script to check.
+        </p>
+        <div v-else class="mt-4 space-y-3 text-[15px] leading-relaxed text-ink">
+          <p v-for="(line, i) in script" :key="i">
+            <span v-if="line.speaker" class="font-extrabold text-ink-strong">{{ line.speaker }}:</span>
+            {{ line.text }}
+          </p>
+        </div>
       </div>
 
       <!-- Extras -->
